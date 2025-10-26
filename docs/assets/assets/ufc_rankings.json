@@ -1,0 +1,1058 @@
+[
+    {
+        "division": "Flyweight",
+        "fighter_name": "Alexandre Pantoja",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Joshua Van",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Brandon Moreno",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Brandon Royval",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Amir Albazi",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Tatsuro Taira",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Kai Kara-France",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Manel Kape",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Alex Perez",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Asu Almabayev",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Tim Elliott",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Steve Erceg",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Tagir Ulanbekov",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Charles Johnson",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Bruno Silva",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Flyweight",
+        "fighter_name": "Rafael Estevam",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Merab Dvalishvili",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Sean O'Malley",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Umar Nurmagomedov",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Petr Yan",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Cory Sandhagen",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Song Yadong",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Deiveson Figueiredo",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Aiemann Zahabi",
+        "rank": 7,
+        "movement": 2
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Marlon Vera",
+        "rank": 8,
+        "movement": -1
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Mario Bautista",
+        "rank": 9,
+        "movement": -1
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Henry Cejudo",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "David Martinez",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Rob Font",
+        "rank": 12,
+        "movement": 1
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Vinicius Oliveira",
+        "rank": 13,
+        "movement": -1
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Kyler Phillips",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Bantamweight",
+        "fighter_name": "Marcus McGhee",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Alexander Volkanovski",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Movsar Evloev",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Diego Lopes",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Yair Rodriguez",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Lerone Murphy",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Aljamain Sterling",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Arnold Allen",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Youssef Zalal",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Brian Ortega",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Josh Emmett",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Jean Silva",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Patricio Pitbull",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Steve Garcia",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "David Onama",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Dan Ige",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Featherweight",
+        "fighter_name": "Giga Chikadze",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Ilia Topuria",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Islam Makhachev",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Arman Tsarukyan",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Charles Oliveira",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Max Holloway",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Justin Gaethje",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Paddy Pimblett",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Dan Hooker",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Mateusz Gamrot",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Beneil Dariush",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Rafael Fiziev",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Renato Moicano",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Michael Chandler",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Beno\u00eet Saint Denis",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Grant Dawson",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Lightweight",
+        "fighter_name": "Mauricio Ruffy",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Jack Della Maddalena",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Belal Muhammad",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Sean Brady",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Shavkat Rakhmonov",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Leon Edwards",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Kamaru Usman",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Ian Machado Garry",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Joaquin Buckley",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Michael Morales",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Carlos Prates",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Colby Covington",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Gilbert Burns",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Geoff Neal",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Daniel Rodriguez",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Gabriel Bonfim",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Welterweight",
+        "fighter_name": "Mike Malott",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Khamzat Chimaev",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Dricus Du Plessis",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Nassourdine Imavov",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Sean Strickland",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Anthony Hernandez",
+        "rank": 4,
+        "movement": 2
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Brendan Allen",
+        "rank": 5,
+        "movement": 4
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Israel Adesanya",
+        "rank": 6,
+        "movement": -1
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Caio Borralho",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Reinier de Ridder",
+        "rank": 8,
+        "movement": -4
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Robert Whittaker",
+        "rank": 9,
+        "movement": -1
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Michael Page",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Jared Cannonier",
+        "rank": 10,
+        "movement": 1
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Roman Dolidze",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Paulo Costa",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Marvin Vettori",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Middleweight",
+        "fighter_name": "Joe Pyfer",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Alex Pereira",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Ji\u0159\u00ed Proch\u00e1zka",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Magomed Ankalaev",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Carlos Ulberg",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Jan B\u0142achowicz",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Khalil Rountree Jr.",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Jamahal Hill",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Aleksandar Raki\u0107",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Dominick Reyes",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Volkan Oezdemir",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Azamat Murzakanov",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Bogdan Guskov",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Johnny Walker",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Nikita Krylov",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Alonzo Menifield",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Light Heavyweight",
+        "fighter_name": "Zhang Mingyang",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Tom Aspinall",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Ciryl Gane",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Alexander Volkov",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Sergei Pavlovich",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Curtis Blaydes",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Jailton Almeida",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Waldo Cortes Acosta",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Serghei Spivac",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Derrick Lewis",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Ante Delija",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Marcin Tybura",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Tai Tuivasa",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Shamil Gaziev",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Mick Parkin",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Tallison Teixeira",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Heavyweight",
+        "fighter_name": "Valter Walker",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Zhang Weili",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Tatiana Suarez",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Virna Jandiroba",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Yan Xiaonan",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Amanda Lemos",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Mackenzie Dern",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Loopy Godinez",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Iasmin Lucindo",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Tabatha Ricci",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "J\u00e9ssica Andrade",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Gillian Robertson",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Amanda Ribas",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Angela Hill",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Tecia Pennington",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Alexia Thainara",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Women's Strawweight",
+        "fighter_name": "Denise Gomes",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Valentina Shevchenko",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Manon Fiorot",
+        "rank": 1,
+        "movement": 1
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Natalia Silva",
+        "rank": 2,
+        "movement": -1
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Alexa Grasso",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Erin Blanchfield",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Maycee Barber",
+        "rank": 5,
+        "movement": 1
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Rose Namajunas",
+        "rank": 6,
+        "movement": 1
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Jasmine Jasudavicius",
+        "rank": 7,
+        "movement": -2
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Tracy Cortez",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Karine Silva",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Miranda Maverick",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Casey O'Neill",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Wang Cong",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Eduarda Moura",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "JJ Aldrich",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Women's Flyweight",
+        "fighter_name": "Gabriella Fernandes",
+        "rank": 15,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Kayla Harrison",
+        "rank": 0,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Julianna Pe\u00f1a",
+        "rank": 1,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Raquel Pennington",
+        "rank": 2,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Ketlen Vieira",
+        "rank": 3,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Norma Dumont",
+        "rank": 4,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Yana Santos",
+        "rank": 5,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Irene Aldana",
+        "rank": 6,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Macy Chiasson",
+        "rank": 7,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Ailin Perez",
+        "rank": 8,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Karol Rosa",
+        "rank": 9,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Mayra Bueno Silva",
+        "rank": 10,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Jacqueline Cavalcanti",
+        "rank": 11,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Nora Cornolle",
+        "rank": 12,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Miesha Tate",
+        "rank": 13,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Joselyne Edwards",
+        "rank": 14,
+        "movement": 0
+    },
+    {
+        "division": "Women's Bantamweight",
+        "fighter_name": "Luana Santos",
+        "rank": 15,
+        "movement": 0
+    }
+]

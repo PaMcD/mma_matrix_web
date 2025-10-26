@@ -1,0 +1,494 @@
+[
+  {
+    "principle_fighter":"Alex Pereira",
+    "opponent_fighter":"Magomed Ankalaev",
+    "result":"W",
+    "fight_date":"2025-10-04"
+  },
+  {
+    "principle_fighter":"Alex Pereira",
+    "opponent_fighter":"Magomed Ankalaev",
+    "result":"L",
+    "fight_date":"2025-03-08"
+  },
+  {
+    "principle_fighter":"Alex Pereira",
+    "opponent_fighter":"Khalil Rountree Jr.",
+    "result":"W",
+    "fight_date":"2024-10-05"
+  },
+  {
+    "principle_fighter":"Alex Pereira",
+    "opponent_fighter":"Jiří Procházka",
+    "result":"W",
+    "fight_date":"2024-06-29"
+  },
+  {
+    "principle_fighter":"Alex Pereira",
+    "opponent_fighter":"Jamahal Hill",
+    "result":"W",
+    "fight_date":"2024-04-13"
+  },
+  {
+    "principle_fighter":"Alex Pereira",
+    "opponent_fighter":"Jiří Procházka",
+    "result":"W",
+    "fight_date":"2023-11-11"
+  },
+  {
+    "principle_fighter":"Alex Pereira",
+    "opponent_fighter":"Jan Błachowicz",
+    "result":"W",
+    "fight_date":"2023-07-29"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Khalil Rountree Jr.",
+    "result":"W",
+    "fight_date":"2025-10-04"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Jamahal Hill",
+    "result":"W",
+    "fight_date":"2025-01-18"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2024-06-29"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Aleksandar Rakić",
+    "result":"W",
+    "fight_date":"2024-04-13"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2023-11-11"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"W",
+    "fight_date":"2021-05-01"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"W",
+    "fight_date":"2020-07-11"
+  },
+  {
+    "principle_fighter":"Magomed Ankalaev",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2025-10-04"
+  },
+  {
+    "principle_fighter":"Magomed Ankalaev",
+    "opponent_fighter":"Alex Pereira",
+    "result":"W",
+    "fight_date":"2025-03-08"
+  },
+  {
+    "principle_fighter":"Magomed Ankalaev",
+    "opponent_fighter":"Aleksandar Rakić",
+    "result":"W",
+    "fight_date":"2024-10-26"
+  },
+  {
+    "principle_fighter":"Magomed Ankalaev",
+    "opponent_fighter":"Johnny Walker",
+    "result":"W",
+    "fight_date":"2024-01-13"
+  },
+  {
+    "principle_fighter":"Magomed Ankalaev",
+    "opponent_fighter":"Johnny Walker",
+    "result":"NC",
+    "fight_date":"2023-10-21"
+  },
+  {
+    "principle_fighter":"Magomed Ankalaev",
+    "opponent_fighter":"Jan Błachowicz",
+    "result":"D",
+    "fight_date":"2022-12-10"
+  },
+  {
+    "principle_fighter":"Magomed Ankalaev",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"W",
+    "fight_date":"2021-10-30"
+  },
+  {
+    "principle_fighter":"Magomed Ankalaev",
+    "opponent_fighter":"Nikita Krylov",
+    "result":"W",
+    "fight_date":"2021-02-27"
+  },
+  {
+    "principle_fighter":"Carlos Ulberg",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"W",
+    "fight_date":"2025-09-27"
+  },
+  {
+    "principle_fighter":"Carlos Ulberg",
+    "opponent_fighter":"Jan Błachowicz",
+    "result":"W",
+    "fight_date":"2025-03-22"
+  },
+  {
+    "principle_fighter":"Carlos Ulberg",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"W",
+    "fight_date":"2024-11-23"
+  },
+  {
+    "principle_fighter":"Carlos Ulberg",
+    "opponent_fighter":"Alonzo Menifield",
+    "result":"W",
+    "fight_date":"2024-05-11"
+  },
+  {
+    "principle_fighter":"Jan Błachowicz",
+    "opponent_fighter":"Bogdan Guskov",
+    "result":"S",
+    "fight_date":"2025-12-06"
+  },
+  {
+    "principle_fighter":"Jan Błachowicz",
+    "opponent_fighter":"Carlos Ulberg",
+    "result":"L",
+    "fight_date":"2025-03-22"
+  },
+  {
+    "principle_fighter":"Jan Błachowicz",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2023-07-29"
+  },
+  {
+    "principle_fighter":"Jan Błachowicz",
+    "opponent_fighter":"Magomed Ankalaev",
+    "result":"D",
+    "fight_date":"2022-12-10"
+  },
+  {
+    "principle_fighter":"Jan Błachowicz",
+    "opponent_fighter":"Aleksandar Rakić",
+    "result":"W",
+    "fight_date":"2022-05-14"
+  },
+  {
+    "principle_fighter":"Jan Błachowicz",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"W",
+    "fight_date":"2020-09-26"
+  },
+  {
+    "principle_fighter":"Jan Błachowicz",
+    "opponent_fighter":"Nikita Krylov",
+    "result":"W",
+    "fight_date":"2018-09-15"
+  },
+  {
+    "principle_fighter":"Khalil Rountree Jr.",
+    "opponent_fighter":"Jiří Procházka",
+    "result":"L",
+    "fight_date":"2025-10-04"
+  },
+  {
+    "principle_fighter":"Khalil Rountree Jr.",
+    "opponent_fighter":"Jamahal Hill",
+    "result":"W",
+    "fight_date":"2025-06-21"
+  },
+  {
+    "principle_fighter":"Khalil Rountree Jr.",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2024-10-05"
+  },
+  {
+    "principle_fighter":"Khalil Rountree Jr.",
+    "opponent_fighter":"Johnny Walker",
+    "result":"L",
+    "fight_date":"2018-11-17"
+  },
+  {
+    "principle_fighter":"Jamahal Hill",
+    "opponent_fighter":"Khalil Rountree Jr.",
+    "result":"L",
+    "fight_date":"2025-06-21"
+  },
+  {
+    "principle_fighter":"Jamahal Hill",
+    "opponent_fighter":"Jiří Procházka",
+    "result":"L",
+    "fight_date":"2025-01-18"
+  },
+  {
+    "principle_fighter":"Jamahal Hill",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2024-04-13"
+  },
+  {
+    "principle_fighter":"Jamahal Hill",
+    "opponent_fighter":"Johnny Walker",
+    "result":"W",
+    "fight_date":"2022-02-19"
+  },
+  {
+    "principle_fighter":"Aleksandar Rakić",
+    "opponent_fighter":"Azamat Murzakanov",
+    "result":"L",
+    "fight_date":"2025-10-25"
+  },
+  {
+    "principle_fighter":"Aleksandar Rakić",
+    "opponent_fighter":"Magomed Ankalaev",
+    "result":"L",
+    "fight_date":"2024-10-26"
+  },
+  {
+    "principle_fighter":"Aleksandar Rakić",
+    "opponent_fighter":"Jiří Procházka",
+    "result":"L",
+    "fight_date":"2024-04-13"
+  },
+  {
+    "principle_fighter":"Aleksandar Rakić",
+    "opponent_fighter":"Jan Błachowicz",
+    "result":"L",
+    "fight_date":"2022-05-14"
+  },
+  {
+    "principle_fighter":"Aleksandar Rakić",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"L",
+    "fight_date":"2019-12-21"
+  },
+  {
+    "principle_fighter":"Dominick Reyes",
+    "opponent_fighter":"Carlos Ulberg",
+    "result":"L",
+    "fight_date":"2025-09-27"
+  },
+  {
+    "principle_fighter":"Dominick Reyes",
+    "opponent_fighter":"Nikita Krylov",
+    "result":"W",
+    "fight_date":"2025-04-12"
+  },
+  {
+    "principle_fighter":"Dominick Reyes",
+    "opponent_fighter":"Jiří Procházka",
+    "result":"L",
+    "fight_date":"2021-05-01"
+  },
+  {
+    "principle_fighter":"Dominick Reyes",
+    "opponent_fighter":"Jan Błachowicz",
+    "result":"L",
+    "fight_date":"2020-09-26"
+  },
+  {
+    "principle_fighter":"Dominick Reyes",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"W",
+    "fight_date":"2019-03-16"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Alonzo Menifield",
+    "result":"S",
+    "fight_date":"2025-11-22"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Carlos Ulberg",
+    "result":"L",
+    "fight_date":"2024-11-23"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Johnny Walker",
+    "result":"W",
+    "fight_date":"2024-06-22"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Bogdan Guskov",
+    "result":"W",
+    "fight_date":"2023-09-02"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Nikita Krylov",
+    "result":"L",
+    "fight_date":"2022-10-22"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Magomed Ankalaev",
+    "result":"L",
+    "fight_date":"2021-10-30"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Jiří Procházka",
+    "result":"L",
+    "fight_date":"2020-07-11"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Aleksandar Rakić",
+    "result":"W",
+    "fight_date":"2019-12-21"
+  },
+  {
+    "principle_fighter":"Volkan Oezdemir",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"L",
+    "fight_date":"2019-03-16"
+  },
+  {
+    "principle_fighter":"Azamat Murzakanov",
+    "opponent_fighter":"Aleksandar Rakić",
+    "result":"W",
+    "fight_date":"2025-10-25"
+  },
+  {
+    "principle_fighter":"Azamat Murzakanov",
+    "opponent_fighter":"Alonzo Menifield",
+    "result":"W",
+    "fight_date":"2024-08-03"
+  },
+  {
+    "principle_fighter":"Bogdan Guskov",
+    "opponent_fighter":"Jan Błachowicz",
+    "result":"S",
+    "fight_date":"2025-12-06"
+  },
+  {
+    "principle_fighter":"Bogdan Guskov",
+    "opponent_fighter":"Nikita Krylov",
+    "result":"W",
+    "fight_date":"2025-07-26"
+  },
+  {
+    "principle_fighter":"Bogdan Guskov",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"L",
+    "fight_date":"2023-09-02"
+  },
+  {
+    "principle_fighter":"Johnny Walker",
+    "opponent_fighter":"Zhang Mingyang",
+    "result":"W",
+    "fight_date":"2025-08-23"
+  },
+  {
+    "principle_fighter":"Johnny Walker",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"L",
+    "fight_date":"2024-06-22"
+  },
+  {
+    "principle_fighter":"Johnny Walker",
+    "opponent_fighter":"Magomed Ankalaev",
+    "result":"L",
+    "fight_date":"2024-01-13"
+  },
+  {
+    "principle_fighter":"Johnny Walker",
+    "opponent_fighter":"Magomed Ankalaev",
+    "result":"NC",
+    "fight_date":"2023-10-21"
+  },
+  {
+    "principle_fighter":"Johnny Walker",
+    "opponent_fighter":"Jamahal Hill",
+    "result":"L",
+    "fight_date":"2022-02-19"
+  },
+  {
+    "principle_fighter":"Johnny Walker",
+    "opponent_fighter":"Nikita Krylov",
+    "result":"L",
+    "fight_date":"2020-03-14"
+  },
+  {
+    "principle_fighter":"Johnny Walker",
+    "opponent_fighter":"Khalil Rountree Jr.",
+    "result":"W",
+    "fight_date":"2018-11-17"
+  },
+  {
+    "principle_fighter":"Nikita Krylov",
+    "opponent_fighter":"Bogdan Guskov",
+    "result":"L",
+    "fight_date":"2025-07-26"
+  },
+  {
+    "principle_fighter":"Nikita Krylov",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"L",
+    "fight_date":"2025-04-12"
+  },
+  {
+    "principle_fighter":"Nikita Krylov",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"W",
+    "fight_date":"2022-10-22"
+  },
+  {
+    "principle_fighter":"Nikita Krylov",
+    "opponent_fighter":"Magomed Ankalaev",
+    "result":"L",
+    "fight_date":"2021-02-27"
+  },
+  {
+    "principle_fighter":"Nikita Krylov",
+    "opponent_fighter":"Johnny Walker",
+    "result":"W",
+    "fight_date":"2020-03-14"
+  },
+  {
+    "principle_fighter":"Nikita Krylov",
+    "opponent_fighter":"Jan Błachowicz",
+    "result":"L",
+    "fight_date":"2018-09-15"
+  },
+  {
+    "principle_fighter":"Alonzo Menifield",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"S",
+    "fight_date":"2025-11-22"
+  },
+  {
+    "principle_fighter":"Alonzo Menifield",
+    "opponent_fighter":"Azamat Murzakanov",
+    "result":"L",
+    "fight_date":"2024-08-03"
+  },
+  {
+    "principle_fighter":"Alonzo Menifield",
+    "opponent_fighter":"Carlos Ulberg",
+    "result":"L",
+    "fight_date":"2024-05-11"
+  },
+  {
+    "principle_fighter":"Zhang Mingyang",
+    "opponent_fighter":"Johnny Walker",
+    "result":"L",
+    "fight_date":"2025-08-23"
+  }
+]
