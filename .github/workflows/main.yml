@@ -1,0 +1,35 @@
+name: Scrape Data
+
+on:
+  schedule:
+    # Runs every day at 4am UTC
+    - cron: '0 4 * * *'
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r data_sourcing/requirements.txt
+
+      - name: Run scraper
+        run: |
+          python data_sourcing/main.py
+
+      - name: Commit and push updated data
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add data/
+          git commit -m "Update scraped data [skip ci]" || echo "No changes to commit"
+          git push
