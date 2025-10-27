@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: false    # important: allow using a custom PAT for push
+          persist-credentials: true    # use the built-in GITHUB_TOKEN for push
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -40,14 +40,11 @@ jobs:
       - name: Stage and commit changes (if any)
         run: |
           git add assets/assets/
-          # exit code 1 if no changes; the `|| true` avoids failing the job
           git diff --staged --quiet || git commit -m "Update scraped data [skip ci]"
 
-      - name: Push changes using PAT
+      - name: Push changes using GITHUB_TOKEN
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # replace origin with PAT-backed URL so push authenticates with your token
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/PaMcD/mma_matrix_web.git
-          # push to main (change target branch if you prefer)
-          git push --set-upstream origin HEAD:main --follow-tags
+          # Push back to main (adjust target branch if needed)
+          git push origin HEAD:main --follow-tags
