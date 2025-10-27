@@ -438,12 +438,6 @@
     "fight_date":"2023-06-24"
   },
   {
-    "principle_fighter":"Bruno Silva",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2022-03-12"
-  },
-  {
     "principle_fighter":"Rafael Estevam",
     "opponent_fighter":"Charles Johnson",
     "result":"W",
@@ -2251,12 +2245,6 @@
   },
   {
     "principle_fighter":"Sean Strickland",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2022-07-02"
-  },
-  {
-    "principle_fighter":"Sean Strickland",
     "opponent_fighter":"Brendan Allen",
     "result":"W",
     "fight_date":"2020-11-14"
@@ -2353,18 +2341,6 @@
   },
   {
     "principle_fighter":"Israel Adesanya",
-    "opponent_fighter":"Alex Pereira",
-    "result":"W",
-    "fight_date":"2023-04-08"
-  },
-  {
-    "principle_fighter":"Israel Adesanya",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2022-11-12"
-  },
-  {
-    "principle_fighter":"Israel Adesanya",
     "opponent_fighter":"Jared Cannonier",
     "result":"W",
     "fight_date":"2022-07-02"
@@ -2404,18 +2380,6 @@
     "opponent_fighter":"Marvin Vettori",
     "result":"W",
     "fight_date":"2018-04-14"
-  },
-  {
-    "principle_fighter":"Israel Adesanya",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2017-03-04"
-  },
-  {
-    "principle_fighter":"Israel Adesanya",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2016-04-02"
   },
   {
     "principle_fighter":"Caio Borralho",
@@ -2664,94 +2628,34 @@
     "fight_date":"2018-04-14"
   },
   {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Magomed Ankalaev",
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Khalil Rountree Jr.",
     "result":"W",
     "fight_date":"2025-10-04"
   },
   {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Magomed Ankalaev",
-    "result":"L",
-    "fight_date":"2025-03-08"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Khalil Rountree Jr.",
-    "result":"W",
-    "fight_date":"2024-10-05"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Jiří Procházka",
-    "result":"W",
-    "fight_date":"2024-06-29"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
+    "principle_fighter":"Jiří Procházka",
     "opponent_fighter":"Jamahal Hill",
+    "result":"W",
+    "fight_date":"2025-01-18"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Aleksandar Rakić",
     "result":"W",
     "fight_date":"2024-04-13"
   },
   {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Jiří Procházka",
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Dominick Reyes",
     "result":"W",
-    "fight_date":"2023-11-11"
+    "fight_date":"2021-05-01"
   },
   {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Jan Błachowicz",
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Volkan Oezdemir",
     "result":"W",
-    "fight_date":"2023-07-29"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Israel Adesanya",
-    "result":"L",
-    "fight_date":"2023-04-08"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Israel Adesanya",
-    "result":"W",
-    "fight_date":"2022-11-12"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Sean Strickland",
-    "result":"W",
-    "fight_date":"2022-07-02"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Bruno Silva",
-    "result":"W",
-    "fight_date":"2022-03-12"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Israel Adesanya",
-    "result":"W",
-    "fight_date":"2017-03-04"
-  },
-  {
-    "principle_fighter":"Alex Pereira",
-    "opponent_fighter":"Israel Adesanya",
-    "result":"W",
-    "fight_date":"2016-04-02"
-  },
-  {
-    "principle_fighter":"Magomed Ankalaev",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2025-10-04"
-  },
-  {
-    "principle_fighter":"Magomed Ankalaev",
-    "opponent_fighter":"Alex Pereira",
-    "result":"W",
-    "fight_date":"2025-03-08"
+    "fight_date":"2020-07-11"
   },
   {
     "principle_fighter":"Magomed Ankalaev",
@@ -2790,48 +2694,6 @@
     "fight_date":"2021-02-27"
   },
   {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Khalil Rountree Jr.",
-    "result":"W",
-    "fight_date":"2025-10-04"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Jamahal Hill",
-    "result":"W",
-    "fight_date":"2025-01-18"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2024-06-29"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Aleksandar Rakić",
-    "result":"W",
-    "fight_date":"2024-04-13"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2023-11-11"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Dominick Reyes",
-    "result":"W",
-    "fight_date":"2021-05-01"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Volkan Oezdemir",
-    "result":"W",
-    "fight_date":"2020-07-11"
-  },
-  {
     "principle_fighter":"Carlos Ulberg",
     "opponent_fighter":"Dominick Reyes",
     "result":"W",
@@ -2866,12 +2728,6 @@
     "opponent_fighter":"Carlos Ulberg",
     "result":"L",
     "fight_date":"2025-03-22"
-  },
-  {
-    "principle_fighter":"Jan Błachowicz",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2023-07-29"
   },
   {
     "principle_fighter":"Jan Błachowicz",
@@ -2923,12 +2779,6 @@
   },
   {
     "principle_fighter":"Khalil Rountree Jr.",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2024-10-05"
-  },
-  {
-    "principle_fighter":"Khalil Rountree Jr.",
     "opponent_fighter":"Johnny Walker",
     "result":"L",
     "fight_date":"2018-11-17"
@@ -2944,12 +2794,6 @@
     "opponent_fighter":"Jiří Procházka",
     "result":"L",
     "fight_date":"2025-01-18"
-  },
-  {
-    "principle_fighter":"Jamahal Hill",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2024-04-13"
   },
   {
     "principle_fighter":"Jamahal Hill",
