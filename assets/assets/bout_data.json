@@ -522,24 +522,6 @@
     "fight_date":"2020-08-15"
   },
   {
-    "principle_fighter":"Umar Nurmagomedov",
-    "opponent_fighter":"Mario Bautista",
-    "result":"W",
-    "fight_date":"2025-10-25"
-  },
-  {
-    "principle_fighter":"Umar Nurmagomedov",
-    "opponent_fighter":"Merab Dvalishvili",
-    "result":"L",
-    "fight_date":"2025-01-18"
-  },
-  {
-    "principle_fighter":"Umar Nurmagomedov",
-    "opponent_fighter":"Cory Sandhagen",
-    "result":"W",
-    "fight_date":"2024-08-03"
-  },
-  {
     "principle_fighter":"Petr Yan",
     "opponent_fighter":"Merab Dvalishvili",
     "result":"S",
@@ -592,6 +574,24 @@
     "opponent_fighter":"Aljamain Sterling",
     "result":"L",
     "fight_date":"2021-03-06"
+  },
+  {
+    "principle_fighter":"Umar Nurmagomedov",
+    "opponent_fighter":"Mario Bautista",
+    "result":"W",
+    "fight_date":"2025-10-25"
+  },
+  {
+    "principle_fighter":"Umar Nurmagomedov",
+    "opponent_fighter":"Merab Dvalishvili",
+    "result":"L",
+    "fight_date":"2025-01-18"
+  },
+  {
+    "principle_fighter":"Umar Nurmagomedov",
+    "opponent_fighter":"Cory Sandhagen",
+    "result":"W",
+    "fight_date":"2024-08-03"
   },
   {
     "principle_fighter":"Cory Sandhagen",
@@ -2628,36 +2628,6 @@
     "fight_date":"2018-04-14"
   },
   {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Khalil Rountree Jr.",
-    "result":"W",
-    "fight_date":"2025-10-04"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Jamahal Hill",
-    "result":"W",
-    "fight_date":"2025-01-18"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Aleksandar Rakić",
-    "result":"W",
-    "fight_date":"2024-04-13"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Dominick Reyes",
-    "result":"W",
-    "fight_date":"2021-05-01"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Volkan Oezdemir",
-    "result":"W",
-    "fight_date":"2020-07-11"
-  },
-  {
     "principle_fighter":"Magomed Ankalaev",
     "opponent_fighter":"Aleksandar Rakić",
     "result":"W",
@@ -2692,6 +2662,36 @@
     "opponent_fighter":"Nikita Krylov",
     "result":"W",
     "fight_date":"2021-02-27"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Khalil Rountree Jr.",
+    "result":"W",
+    "fight_date":"2025-10-04"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Jamahal Hill",
+    "result":"W",
+    "fight_date":"2025-01-18"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Aleksandar Rakić",
+    "result":"W",
+    "fight_date":"2024-04-13"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"W",
+    "fight_date":"2021-05-01"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"W",
+    "fight_date":"2020-07-11"
   },
   {
     "principle_fighter":"Carlos Ulberg",

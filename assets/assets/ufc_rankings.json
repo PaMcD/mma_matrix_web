@@ -109,13 +109,13 @@
   },
   {
     "division":"Bantamweight",
-    "fighter_name":"Umar Nurmagomedov",
+    "fighter_name":"Petr Yan",
     "rank":2,
     "movement":0
   },
   {
     "division":"Bantamweight",
-    "fighter_name":"Petr Yan",
+    "fighter_name":"Umar Nurmagomedov",
     "rank":2,
     "movement":0
   },
@@ -583,13 +583,13 @@
   },
   {
     "division":"Light Heavyweight",
-    "fighter_name":"Jiří Procházka",
+    "fighter_name":"Magomed Ankalaev",
     "rank":1,
     "movement":0
   },
   {
     "division":"Light Heavyweight",
-    "fighter_name":"Magomed Ankalaev",
+    "fighter_name":"Jiří Procházka",
     "rank":1,
     "movement":0
   },
