@@ -121,7 +121,7 @@ def scrape_ufc_rankings() -> pd.DataFrame:
         #  Men's Pound-for-Pound
         division_header = table.find('h4')
         if division_header is None:
-            print(table)
+            # print(table)
             raise ValueError("Could not find division header for table.")
 
         division_name = division_header.text.strip(
@@ -135,7 +135,7 @@ def scrape_ufc_rankings() -> pd.DataFrame:
         # <div class="rankings--athlete--champion clearfix"> if for the champion
         champion_div = table.find('h5')
         if champion_div is None:
-            print(table)
+            # print(table)
             raise ValueError("Could not find champion div for table.")
         else:
             champion_name = champion_div.text.strip()
@@ -154,7 +154,7 @@ def scrape_ufc_rankings() -> pd.DataFrame:
 
         for fighter_row in fighter_rows:
 
-            print(fighter_row)
+            # print(fighter_row)
 
             # fighter name is in td with class 'views-field-title'
             fighter_div = fighter_row.find(
@@ -194,7 +194,7 @@ def scrape_ufc_rankings() -> pd.DataFrame:
                 'movement': movement,
             }
 
-            print(ranking_record)
+            # print(ranking_record)
 
             fighter_data.append(ranking_record)
 
