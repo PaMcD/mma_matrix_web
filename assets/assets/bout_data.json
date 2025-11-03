@@ -1220,13 +1220,13 @@
   {
     "principle_fighter":"Steve Garcia",
     "opponent_fighter":"David Onama",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-01"
   },
   {
     "principle_fighter":"David Onama",
     "opponent_fighter":"Steve Garcia",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-01"
   },
   {
@@ -3446,7 +3446,7 @@
   {
     "principle_fighter":"Waldo Cortes Acosta",
     "opponent_fighter":"Ante Delija",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-01"
   },
   {
@@ -3572,7 +3572,7 @@
   {
     "principle_fighter":"Ante Delija",
     "opponent_fighter":"Waldo Cortes Acosta",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-01"
   },
   {
@@ -3913,6 +3913,12 @@
   },
   {
     "principle_fighter":"Amanda Lemos",
+    "opponent_fighter":"Gillian Robertson",
+    "result":"S",
+    "fight_date":"2025-12-13"
+  },
+  {
+    "principle_fighter":"Amanda Lemos",
     "opponent_fighter":"Tatiana Suarez",
     "result":"L",
     "fight_date":"2025-09-13"
@@ -3982,12 +3988,6 @@
     "opponent_fighter":"Angela Hill",
     "result":"L",
     "fight_date":"2022-08-13"
-  },
-  {
-    "principle_fighter":"Iasmin Lucindo",
-    "opponent_fighter":"Gillian Robertson",
-    "result":"S",
-    "fight_date":"2025-12-13"
   },
   {
     "principle_fighter":"Iasmin Lucindo",
@@ -4147,7 +4147,7 @@
   },
   {
     "principle_fighter":"Gillian Robertson",
-    "opponent_fighter":"Iasmin Lucindo",
+    "opponent_fighter":"Amanda Lemos",
     "result":"S",
     "fight_date":"2025-12-13"
   },
@@ -4922,7 +4922,7 @@
   {
     "principle_fighter":"Ketlen Vieira",
     "opponent_fighter":"Norma Dumont",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-01"
   },
   {
@@ -4964,7 +4964,7 @@
   {
     "principle_fighter":"Norma Dumont",
     "opponent_fighter":"Ketlen Vieira",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-01"
   },
   {
