@@ -1128,6 +1128,12 @@
     "fight_date":"2020-10-10"
   },
   {
+    "principle_fighter":"Steve Garcia",
+    "opponent_fighter":"David Onama",
+    "result":"W",
+    "fight_date":"2025-11-01"
+  },
+  {
     "principle_fighter":"Brian Ortega",
     "opponent_fighter":"Aljamain Sterling",
     "result":"L",
@@ -1218,24 +1224,6 @@
     "fight_date":"2019-05-11"
   },
   {
-    "principle_fighter":"Steve Garcia",
-    "opponent_fighter":"David Onama",
-    "result":"W",
-    "fight_date":"2025-11-01"
-  },
-  {
-    "principle_fighter":"David Onama",
-    "opponent_fighter":"Steve Garcia",
-    "result":"L",
-    "fight_date":"2025-11-01"
-  },
-  {
-    "principle_fighter":"David Onama",
-    "opponent_fighter":"Giga Chikadze",
-    "result":"W",
-    "fight_date":"2025-04-26"
-  },
-  {
     "principle_fighter":"Dan Ige",
     "opponent_fighter":"Patricio Pitbull",
     "result":"L",
@@ -1264,6 +1252,18 @@
     "opponent_fighter":"Josh Emmett",
     "result":"L",
     "fight_date":"2021-12-11"
+  },
+  {
+    "principle_fighter":"David Onama",
+    "opponent_fighter":"Steve Garcia",
+    "result":"L",
+    "fight_date":"2025-11-01"
+  },
+  {
+    "principle_fighter":"David Onama",
+    "opponent_fighter":"Giga Chikadze",
+    "result":"W",
+    "fight_date":"2025-04-26"
   },
   {
     "principle_fighter":"Giga Chikadze",
@@ -4298,7 +4298,7 @@
   {
     "principle_fighter":"Tecia Pennington",
     "opponent_fighter":"Denise Gomes",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-08"
   },
   {
@@ -4352,7 +4352,7 @@
   {
     "principle_fighter":"Denise Gomes",
     "opponent_fighter":"Tecia Pennington",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-08"
   },
   {
@@ -4920,6 +4920,30 @@
     "fight_date":"2011-01-20"
   },
   {
+    "principle_fighter":"Norma Dumont",
+    "opponent_fighter":"Ketlen Vieira",
+    "result":"W",
+    "fight_date":"2025-11-01"
+  },
+  {
+    "principle_fighter":"Norma Dumont",
+    "opponent_fighter":"Irene Aldana",
+    "result":"W",
+    "fight_date":"2024-09-14"
+  },
+  {
+    "principle_fighter":"Norma Dumont",
+    "opponent_fighter":"Karol Rosa",
+    "result":"W",
+    "fight_date":"2023-04-22"
+  },
+  {
+    "principle_fighter":"Norma Dumont",
+    "opponent_fighter":"Macy Chiasson",
+    "result":"L",
+    "fight_date":"2022-05-07"
+  },
+  {
     "principle_fighter":"Ketlen Vieira",
     "opponent_fighter":"Norma Dumont",
     "result":"L",
@@ -4960,30 +4984,6 @@
     "opponent_fighter":"Irene Aldana",
     "result":"L",
     "fight_date":"2019-12-14"
-  },
-  {
-    "principle_fighter":"Norma Dumont",
-    "opponent_fighter":"Ketlen Vieira",
-    "result":"W",
-    "fight_date":"2025-11-01"
-  },
-  {
-    "principle_fighter":"Norma Dumont",
-    "opponent_fighter":"Irene Aldana",
-    "result":"W",
-    "fight_date":"2024-09-14"
-  },
-  {
-    "principle_fighter":"Norma Dumont",
-    "opponent_fighter":"Karol Rosa",
-    "result":"W",
-    "fight_date":"2023-04-22"
-  },
-  {
-    "principle_fighter":"Norma Dumont",
-    "opponent_fighter":"Macy Chiasson",
-    "result":"L",
-    "fight_date":"2022-05-07"
   },
   {
     "principle_fighter":"Yana Santos",
@@ -5138,7 +5138,7 @@
   {
     "principle_fighter":"Mayra Bueno Silva",
     "opponent_fighter":"Jacqueline Cavalcanti",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-08"
   },
   {
@@ -5174,7 +5174,7 @@
   {
     "principle_fighter":"Jacqueline Cavalcanti",
     "opponent_fighter":"Mayra Bueno Silva",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-08"
   },
   {

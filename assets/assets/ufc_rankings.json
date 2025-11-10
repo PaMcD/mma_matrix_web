@@ -105,19 +105,19 @@
     "division":"Bantamweight",
     "fighter_name":"Umar Nurmagomedov",
     "rank":1,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Bantamweight",
     "fighter_name":"Sean O'Malley",
     "rank":2,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Bantamweight",
     "fighter_name":"Petr Yan",
     "rank":3,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Bantamweight",
@@ -241,45 +241,45 @@
   },
   {
     "division":"Featherweight",
-    "fighter_name":"Brian Ortega",
+    "fighter_name":"Steve Garcia",
     "rank":8,
-    "movement":0
+    "movement":4
+  },
+  {
+    "division":"Featherweight",
+    "fighter_name":"Brian Ortega",
+    "rank":9,
+    "movement":-1
   },
   {
     "division":"Featherweight",
     "fighter_name":"Josh Emmett",
-    "rank":9,
-    "movement":0
+    "rank":10,
+    "movement":-1
   },
   {
     "division":"Featherweight",
     "fighter_name":"Jean Silva",
-    "rank":10,
-    "movement":0
+    "rank":11,
+    "movement":-1
   },
   {
     "division":"Featherweight",
     "fighter_name":"Patricio Pitbull",
-    "rank":11,
-    "movement":0
-  },
-  {
-    "division":"Featherweight",
-    "fighter_name":"Steve Garcia",
     "rank":12,
-    "movement":0
-  },
-  {
-    "division":"Featherweight",
-    "fighter_name":"David Onama",
-    "rank":13,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Featherweight",
     "fighter_name":"Dan Ige",
+    "rank":13,
+    "movement":1
+  },
+  {
+    "division":"Featherweight",
+    "fighter_name":"David Onama",
     "rank":14,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Featherweight",
@@ -603,13 +603,13 @@
     "division":"Light Heavyweight",
     "fighter_name":"Khalil Rountree Jr.",
     "rank":4,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Light Heavyweight",
     "fighter_name":"Jan Błachowicz",
     "rank":5,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Light Heavyweight",
@@ -621,7 +621,7 @@
     "division":"Light Heavyweight",
     "fighter_name":"Azamat Murzakanov",
     "rank":7,
-    "movement":3
+    "movement":0
   },
   {
     "division":"Light Heavyweight",
@@ -639,7 +639,7 @@
     "division":"Light Heavyweight",
     "fighter_name":"Aleksandar Rakić",
     "rank":10,
-    "movement":-3
+    "movement":0
   },
   {
     "division":"Light Heavyweight",
@@ -741,13 +741,13 @@
     "division":"Heavyweight",
     "fighter_name":"Shamil Gaziev",
     "rank":11,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Heavyweight",
     "fighter_name":"Tai Tuivasa",
     "rank":12,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Heavyweight",
@@ -759,13 +759,13 @@
     "division":"Heavyweight",
     "fighter_name":"Valter Walker",
     "rank":14,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Heavyweight",
     "fighter_name":"Tallison Teixeira",
     "rank":15,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Women's Strawweight",
@@ -777,31 +777,31 @@
     "division":"Women's Strawweight",
     "fighter_name":"Zhang Weili",
     "rank":1,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Women's Strawweight",
     "fighter_name":"Tatiana Suarez",
-    "rank":2,
-    "movement":-1
+    "rank":1,
+    "movement":1
   },
   {
     "division":"Women's Strawweight",
     "fighter_name":"Virna Jandiroba",
     "rank":3,
-    "movement":-2
+    "movement":0
   },
   {
     "division":"Women's Strawweight",
     "fighter_name":"Yan Xiaonan",
     "rank":4,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Women's Strawweight",
     "fighter_name":"Amanda Lemos",
     "rank":5,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Women's Strawweight",
@@ -979,15 +979,15 @@
   },
   {
     "division":"Women's Bantamweight",
-    "fighter_name":"Ketlen Vieira",
+    "fighter_name":"Norma Dumont",
     "rank":3,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Women's Bantamweight",
-    "fighter_name":"Norma Dumont",
+    "fighter_name":"Ketlen Vieira",
     "rank":4,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Women's Bantamweight",
