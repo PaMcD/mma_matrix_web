@@ -91,7 +91,7 @@
   },
   {
     "division":"Flyweight",
-    "fighter_name":"Rafael Estevam",
+    "fighter_name":"Joseph Morales",
     "rank":15,
     "movement":0
   },
@@ -243,43 +243,43 @@
     "division":"Featherweight",
     "fighter_name":"Steve Garcia",
     "rank":8,
-    "movement":4
+    "movement":0
   },
   {
     "division":"Featherweight",
     "fighter_name":"Brian Ortega",
     "rank":9,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Featherweight",
     "fighter_name":"Josh Emmett",
     "rank":10,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Featherweight",
     "fighter_name":"Jean Silva",
     "rank":11,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Featherweight",
     "fighter_name":"Patricio Pitbull",
     "rank":12,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Featherweight",
     "fighter_name":"Dan Ige",
     "rank":13,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Featherweight",
     "fighter_name":"David Onama",
     "rank":14,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Featherweight",
@@ -445,33 +445,33 @@
   },
   {
     "division":"Welterweight",
-    "fighter_name":"Colby Covington",
+    "fighter_name":"Gabriel Bonfim",
     "rank":10,
-    "movement":0
+    "movement":4
+  },
+  {
+    "division":"Welterweight",
+    "fighter_name":"Colby Covington",
+    "rank":11,
+    "movement":-1
   },
   {
     "division":"Welterweight",
     "fighter_name":"Gilbert Burns",
-    "rank":11,
-    "movement":0
+    "rank":12,
+    "movement":-1
   },
   {
     "division":"Welterweight",
     "fighter_name":"Geoff Neal",
-    "rank":12,
-    "movement":0
+    "rank":13,
+    "movement":-1
   },
   {
     "division":"Welterweight",
     "fighter_name":"Daniel Rodriguez",
-    "rank":13,
-    "movement":0
-  },
-  {
-    "division":"Welterweight",
-    "fighter_name":"Gabriel Bonfim",
     "rank":14,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Welterweight",
@@ -783,7 +783,7 @@
     "division":"Women's Strawweight",
     "fighter_name":"Tatiana Suarez",
     "rank":1,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Women's Strawweight",
@@ -847,9 +847,9 @@
   },
   {
     "division":"Women's Strawweight",
-    "fighter_name":"Tecia Pennington",
+    "fighter_name":"Denise Gomes",
     "rank":13,
-    "movement":0
+    "movement":2
   },
   {
     "division":"Women's Strawweight",
@@ -859,9 +859,9 @@
   },
   {
     "division":"Women's Strawweight",
-    "fighter_name":"Denise Gomes",
+    "fighter_name":"Tecia Pennington",
     "rank":15,
-    "movement":0
+    "movement":-2
   },
   {
     "division":"Women's Flyweight",
@@ -981,13 +981,13 @@
     "division":"Women's Bantamweight",
     "fighter_name":"Norma Dumont",
     "rank":3,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Women's Bantamweight",
     "fighter_name":"Ketlen Vieira",
     "rank":4,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Women's Bantamweight",
@@ -1021,15 +1021,15 @@
   },
   {
     "division":"Women's Bantamweight",
-    "fighter_name":"Mayra Bueno Silva",
+    "fighter_name":"Jacqueline Cavalcanti",
     "rank":10,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Women's Bantamweight",
-    "fighter_name":"Jacqueline Cavalcanti",
+    "fighter_name":"Mayra Bueno Silva",
     "rank":11,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Women's Bantamweight",

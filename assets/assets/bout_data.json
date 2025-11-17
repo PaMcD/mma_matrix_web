@@ -421,12 +421,6 @@
   },
   {
     "principle_fighter":"Charles Johnson",
-    "opponent_fighter":"Rafael Estevam",
-    "result":"L",
-    "fight_date":"2023-11-18"
-  },
-  {
-    "principle_fighter":"Charles Johnson",
     "opponent_fighter":"Brandon Royval",
     "result":"L",
     "fight_date":"2018-09-07"
@@ -444,10 +438,10 @@
     "fight_date":"2022-03-12"
   },
   {
-    "principle_fighter":"Rafael Estevam",
-    "opponent_fighter":"Charles Johnson",
-    "result":"W",
-    "fight_date":"2023-11-18"
+    "principle_fighter":"Joseph Morales",
+    "opponent_fighter":"Deiveson Figueiredo",
+    "result":"L",
+    "fight_date":"2018-02-03"
   },
   {
     "principle_fighter":"Merab Dvalishvili",
@@ -748,6 +742,12 @@
     "opponent_fighter":"Alexandre Pantoja",
     "result":"W",
     "fight_date":"2019-07-27"
+  },
+  {
+    "principle_fighter":"Deiveson Figueiredo",
+    "opponent_fighter":"Joseph Morales",
+    "result":"W",
+    "fight_date":"2018-02-03"
   },
   {
     "principle_fighter":"Aiemann Zahabi",
@@ -1310,7 +1310,7 @@
   {
     "principle_fighter":"Islam Makhachev",
     "opponent_fighter":"Jack Della Maddalena",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-15"
   },
   {
@@ -1598,7 +1598,7 @@
   {
     "principle_fighter":"Beneil Dariush",
     "opponent_fighter":"Benoît Saint Denis",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-15"
   },
   {
@@ -1718,7 +1718,7 @@
   {
     "principle_fighter":"Benoît Saint Denis",
     "opponent_fighter":"Beneil Dariush",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-15"
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "principle_fighter":"Jack Della Maddalena",
     "opponent_fighter":"Islam Makhachev",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-15"
   },
   {
@@ -1802,7 +1802,7 @@
   {
     "principle_fighter":"Sean Brady",
     "opponent_fighter":"Michael Morales",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-15"
   },
   {
@@ -1838,7 +1838,7 @@
   {
     "principle_fighter":"Leon Edwards",
     "opponent_fighter":"Carlos Prates",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-15"
   },
   {
@@ -1994,7 +1994,7 @@
   {
     "principle_fighter":"Michael Morales",
     "opponent_fighter":"Sean Brady",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-15"
   },
   {
@@ -2006,7 +2006,7 @@
   {
     "principle_fighter":"Carlos Prates",
     "opponent_fighter":"Leon Edwards",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-15"
   },
   {
@@ -3758,7 +3758,7 @@
   {
     "principle_fighter":"Zhang Weili",
     "opponent_fighter":"Valentina Shevchenko",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-15"
   },
   {
@@ -4296,6 +4296,24 @@
     "fight_date":"2015-06-13"
   },
   {
+    "principle_fighter":"Denise Gomes",
+    "opponent_fighter":"Tecia Pennington",
+    "result":"W",
+    "fight_date":"2025-11-08"
+  },
+  {
+    "principle_fighter":"Denise Gomes",
+    "opponent_fighter":"Eduarda Moura",
+    "result":"W",
+    "fight_date":"2024-06-08"
+  },
+  {
+    "principle_fighter":"Denise Gomes",
+    "opponent_fighter":"Angela Hill",
+    "result":"L",
+    "fight_date":"2023-11-04"
+  },
+  {
     "principle_fighter":"Tecia Pennington",
     "opponent_fighter":"Denise Gomes",
     "result":"L",
@@ -4350,27 +4368,9 @@
     "fight_date":"2013-07-13"
   },
   {
-    "principle_fighter":"Denise Gomes",
-    "opponent_fighter":"Tecia Pennington",
-    "result":"W",
-    "fight_date":"2025-11-08"
-  },
-  {
-    "principle_fighter":"Denise Gomes",
-    "opponent_fighter":"Eduarda Moura",
-    "result":"W",
-    "fight_date":"2024-06-08"
-  },
-  {
-    "principle_fighter":"Denise Gomes",
-    "opponent_fighter":"Angela Hill",
-    "result":"L",
-    "fight_date":"2023-11-04"
-  },
-  {
     "principle_fighter":"Valentina Shevchenko",
     "opponent_fighter":"Zhang Weili",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-15"
   },
   {
@@ -4508,7 +4508,7 @@
   {
     "principle_fighter":"Erin Blanchfield",
     "opponent_fighter":"Tracy Cortez",
-    "result":"S",
+    "result":"W",
     "fight_date":"2025-11-15"
   },
   {
@@ -4706,7 +4706,7 @@
   {
     "principle_fighter":"Tracy Cortez",
     "opponent_fighter":"Erin Blanchfield",
-    "result":"S",
+    "result":"L",
     "fight_date":"2025-11-15"
   },
   {
@@ -5136,6 +5136,24 @@
     "fight_date":"2021-02-06"
   },
   {
+    "principle_fighter":"Jacqueline Cavalcanti",
+    "opponent_fighter":"Mayra Bueno Silva",
+    "result":"W",
+    "fight_date":"2025-11-08"
+  },
+  {
+    "principle_fighter":"Jacqueline Cavalcanti",
+    "opponent_fighter":"Nora Cornolle",
+    "result":"W",
+    "fight_date":"2024-09-28"
+  },
+  {
+    "principle_fighter":"Jacqueline Cavalcanti",
+    "opponent_fighter":"Nora Cornolle",
+    "result":"W",
+    "fight_date":"2021-07-10"
+  },
+  {
     "principle_fighter":"Mayra Bueno Silva",
     "opponent_fighter":"Jacqueline Cavalcanti",
     "result":"L",
@@ -5170,24 +5188,6 @@
     "opponent_fighter":"Gillian Robertson",
     "result":"W",
     "fight_date":"2018-09-22"
-  },
-  {
-    "principle_fighter":"Jacqueline Cavalcanti",
-    "opponent_fighter":"Mayra Bueno Silva",
-    "result":"W",
-    "fight_date":"2025-11-08"
-  },
-  {
-    "principle_fighter":"Jacqueline Cavalcanti",
-    "opponent_fighter":"Nora Cornolle",
-    "result":"W",
-    "fight_date":"2024-09-28"
-  },
-  {
-    "principle_fighter":"Jacqueline Cavalcanti",
-    "opponent_fighter":"Nora Cornolle",
-    "result":"W",
-    "fight_date":"2021-07-10"
   },
   {
     "principle_fighter":"Nora Cornolle",
