@@ -39,59 +39,59 @@
     "division":"Flyweight",
     "fighter_name":"Manel Kape",
     "rank":6,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Flyweight",
-    "fighter_name":"Alex Perez",
+    "fighter_name":"Asu Almabayev",
     "rank":7,
     "movement":1
   },
   {
     "division":"Flyweight",
-    "fighter_name":"Asu Almabayev",
+    "fighter_name":"Kyoji Horiguchi",
     "rank":8,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Flyweight",
     "fighter_name":"Tim Elliott",
     "rank":9,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Flyweight",
     "fighter_name":"Steve Erceg",
     "rank":10,
-    "movement":1
+    "movement":0
+  },
+  {
+    "division":"Flyweight",
+    "fighter_name":"Alex Perez",
+    "rank":11,
+    "movement":-4
   },
   {
     "division":"Flyweight",
     "fighter_name":"Tagir Ulanbekov",
-    "rank":11,
-    "movement":1
+    "rank":12,
+    "movement":-1
   },
   {
     "division":"Flyweight",
     "fighter_name":"Charles Johnson",
-    "rank":12,
-    "movement":1
+    "rank":13,
+    "movement":-1
   },
   {
     "division":"Flyweight",
     "fighter_name":"Bruno Silva",
-    "rank":13,
-    "movement":1
-  },
-  {
-    "division":"Flyweight",
-    "fighter_name":"Joseph Morales",
     "rank":14,
-    "movement":1
+    "movement":-1
   },
   {
     "division":"Flyweight",
-    "fighter_name":"Rafael Estevam",
+    "fighter_name":"Lone’er Kavanagh",
     "rank":15,
     "movement":0
   },
@@ -297,85 +297,85 @@
     "division":"Lightweight",
     "fighter_name":"Arman Tsarukyan",
     "rank":1,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Charles Oliveira",
     "rank":2,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Max Holloway",
     "rank":3,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Justin Gaethje",
     "rank":4,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Paddy Pimblett",
     "rank":5,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Dan Hooker",
     "rank":6,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Mateusz Gamrot",
     "rank":7,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Benoît Saint Denis",
     "rank":8,
-    "movement":5
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Rafael Fiziev",
     "rank":9,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Renato Moicano",
     "rank":10,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Michael Chandler",
     "rank":11,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Beneil Dariush",
     "rank":12,
-    "movement":-3
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Grant Dawson",
     "rank":13,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
     "fighter_name":"Mauricio Ruffy",
     "rank":14,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Lightweight",
@@ -393,67 +393,67 @@
     "division":"Welterweight",
     "fighter_name":"Jack Della Maddalena",
     "rank":1,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Welterweight",
-    "fighter_name":"Belal Muhammad",
+    "fighter_name":"Ian Machado Garry",
     "rank":2,
-    "movement":-1
-  },
-  {
-    "division":"Welterweight",
-    "fighter_name":"Michael Morales",
-    "rank":3,
-    "movement":5
+    "movement":4
   },
   {
     "division":"Welterweight",
     "fighter_name":"Shavkat Rakhmonov",
+    "rank":3,
+    "movement":1
+  },
+  {
+    "division":"Welterweight",
+    "fighter_name":"Michael Morales",
     "rank":4,
     "movement":-1
   },
   {
     "division":"Welterweight",
-    "fighter_name":"Carlos Prates",
+    "fighter_name":"Belal Muhammad",
     "rank":5,
-    "movement":4
+    "movement":-3
   },
   {
     "division":"Welterweight",
-    "fighter_name":"Ian Machado Garry",
+    "fighter_name":"Carlos Prates",
     "rank":6,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Welterweight",
     "fighter_name":"Sean Brady",
     "rank":7,
-    "movement":-5
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Kamaru Usman",
     "rank":8,
-    "movement":-3
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Leon Edwards",
     "rank":9,
-    "movement":-5
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Joaquin Buckley",
     "rank":10,
-    "movement":-3
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Gabriel Bonfim",
     "rank":11,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Welterweight",
@@ -465,19 +465,19 @@
     "division":"Welterweight",
     "fighter_name":"Colby Covington",
     "rank":13,
-    "movement":-2
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Geoff Neal",
     "rank":14,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Daniel Rodriguez",
     "rank":15,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Middleweight",
@@ -541,13 +541,13 @@
   },
   {
     "division":"Middleweight",
-    "fighter_name":"Michael Page",
+    "fighter_name":"Jared Cannonier",
     "rank":10,
     "movement":0
   },
   {
     "division":"Middleweight",
-    "fighter_name":"Jared Cannonier",
+    "fighter_name":"Michael Page",
     "rank":10,
     "movement":0
   },
@@ -661,15 +661,15 @@
   },
   {
     "division":"Light Heavyweight",
-    "fighter_name":"Alonzo Menifield",
+    "fighter_name":"Zhang Mingyang",
     "rank":14,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Light Heavyweight",
-    "fighter_name":"Zhang Mingyang",
+    "fighter_name":"Alonzo Menifield",
     "rank":15,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Heavyweight",
@@ -703,15 +703,15 @@
   },
   {
     "division":"Heavyweight",
-    "fighter_name":"Jailton Almeida",
+    "fighter_name":"Waldo Cortes Acosta",
     "rank":5,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Heavyweight",
-    "fighter_name":"Waldo Cortes Acosta",
+    "fighter_name":"Jailton Almeida",
     "rank":6,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Heavyweight",
@@ -775,13 +775,13 @@
   },
   {
     "division":"Women's Strawweight",
-    "fighter_name":"Tatiana Suarez",
+    "fighter_name":"Zhang Weili",
     "rank":1,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Women's Strawweight",
-    "fighter_name":"Zhang Weili",
+    "fighter_name":"Tatiana Suarez",
     "rank":2,
     "movement":-1
   },
@@ -855,13 +855,13 @@
     "division":"Women's Strawweight",
     "fighter_name":"Angela Hill",
     "rank":14,
-    "movement":-2
+    "movement":0
   },
   {
     "division":"Women's Strawweight",
     "fighter_name":"Alexia Thainara",
     "rank":15,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Women's Flyweight",
