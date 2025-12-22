@@ -78,6 +78,48 @@
     "fight_date":"2016-07-13"
   },
   {
+    "principle_fighter":"Manel Kape",
+    "opponent_fighter":"Brandon Royval",
+    "result":"W",
+    "fight_date":"2025-12-13"
+  },
+  {
+    "principle_fighter":"Manel Kape",
+    "opponent_fighter":"Asu Almabayev",
+    "result":"W",
+    "fight_date":"2025-03-01"
+  },
+  {
+    "principle_fighter":"Manel Kape",
+    "opponent_fighter":"Alexandre Pantoja",
+    "result":"L",
+    "fight_date":"2021-02-06"
+  },
+  {
+    "principle_fighter":"Manel Kape",
+    "opponent_fighter":"Kyoji Horiguchi",
+    "result":"L",
+    "fight_date":"2017-12-31"
+  },
+  {
+    "principle_fighter":"Tatsuro Taira",
+    "opponent_fighter":"Brandon Moreno",
+    "result":"W",
+    "fight_date":"2025-12-06"
+  },
+  {
+    "principle_fighter":"Tatsuro Taira",
+    "opponent_fighter":"Brandon Royval",
+    "result":"L",
+    "fight_date":"2024-10-12"
+  },
+  {
+    "principle_fighter":"Tatsuro Taira",
+    "opponent_fighter":"Alex Perez",
+    "result":"W",
+    "fight_date":"2024-06-15"
+  },
+  {
     "principle_fighter":"Brandon Royval",
     "opponent_fighter":"Manel Kape",
     "result":"L",
@@ -130,24 +172,6 @@
     "opponent_fighter":"Charles Johnson",
     "result":"W",
     "fight_date":"2018-09-07"
-  },
-  {
-    "principle_fighter":"Tatsuro Taira",
-    "opponent_fighter":"Brandon Moreno",
-    "result":"W",
-    "fight_date":"2025-12-06"
-  },
-  {
-    "principle_fighter":"Tatsuro Taira",
-    "opponent_fighter":"Brandon Royval",
-    "result":"L",
-    "fight_date":"2024-10-12"
-  },
-  {
-    "principle_fighter":"Tatsuro Taira",
-    "opponent_fighter":"Alex Perez",
-    "result":"W",
-    "fight_date":"2024-06-15"
   },
   {
     "principle_fighter":"Brandon Moreno",
@@ -238,30 +262,6 @@
     "opponent_fighter":"Brandon Moreno",
     "result":"L",
     "fight_date":"2024-11-02"
-  },
-  {
-    "principle_fighter":"Manel Kape",
-    "opponent_fighter":"Brandon Royval",
-    "result":"W",
-    "fight_date":"2025-12-13"
-  },
-  {
-    "principle_fighter":"Manel Kape",
-    "opponent_fighter":"Asu Almabayev",
-    "result":"W",
-    "fight_date":"2025-03-01"
-  },
-  {
-    "principle_fighter":"Manel Kape",
-    "opponent_fighter":"Alexandre Pantoja",
-    "result":"L",
-    "fight_date":"2021-02-06"
-  },
-  {
-    "principle_fighter":"Manel Kape",
-    "opponent_fighter":"Kyoji Horiguchi",
-    "result":"L",
-    "fight_date":"2017-12-31"
   },
   {
     "principle_fighter":"Asu Almabayev",
@@ -430,12 +430,6 @@
     "opponent_fighter":"Merab Dvalishvili",
     "result":"W",
     "fight_date":"2025-12-06"
-  },
-  {
-    "principle_fighter":"Petr Yan",
-    "opponent_fighter":"Marcus McGhee",
-    "result":"W",
-    "fight_date":"2025-07-26"
   },
   {
     "principle_fighter":"Petr Yan",
@@ -673,6 +667,12 @@
   },
   {
     "principle_fighter":"Deiveson Figueiredo",
+    "opponent_fighter":"Montel Jackson",
+    "result":"W",
+    "fight_date":"2025-10-11"
+  },
+  {
+    "principle_fighter":"Deiveson Figueiredo",
     "opponent_fighter":"Cory Sandhagen",
     "result":"L",
     "fight_date":"2025-05-03"
@@ -870,10 +870,10 @@
     "fight_date":"2021-03-06"
   },
   {
-    "principle_fighter":"Marcus McGhee",
-    "opponent_fighter":"Petr Yan",
+    "principle_fighter":"Montel Jackson",
+    "opponent_fighter":"Deiveson Figueiredo",
     "result":"L",
-    "fight_date":"2025-07-26"
+    "fight_date":"2025-10-11"
   },
   {
     "principle_fighter":"Alexander Volkanovski",
@@ -1081,12 +1081,6 @@
   },
   {
     "principle_fighter":"Arnold Allen",
-    "opponent_fighter":"Giga Chikadze",
-    "result":"W",
-    "fight_date":"2024-07-27"
-  },
-  {
-    "principle_fighter":"Arnold Allen",
     "opponent_fighter":"Movsar Evloev",
     "result":"L",
     "fight_date":"2024-01-20"
@@ -1124,7 +1118,7 @@
   {
     "principle_fighter":"Brian Ortega",
     "opponent_fighter":"Renato Moicano",
-    "result":"",
+    "result":"S",
     "fight_date":"2026-03-07"
   },
   {
@@ -1252,24 +1246,6 @@
     "opponent_fighter":"Steve Garcia",
     "result":"L",
     "fight_date":"2025-11-01"
-  },
-  {
-    "principle_fighter":"David Onama",
-    "opponent_fighter":"Giga Chikadze",
-    "result":"W",
-    "fight_date":"2025-04-26"
-  },
-  {
-    "principle_fighter":"Giga Chikadze",
-    "opponent_fighter":"David Onama",
-    "result":"L",
-    "fight_date":"2025-04-26"
-  },
-  {
-    "principle_fighter":"Giga Chikadze",
-    "opponent_fighter":"Arnold Allen",
-    "result":"L",
-    "fight_date":"2024-07-27"
   },
   {
     "principle_fighter":"Ilia Topuria",
@@ -1634,7 +1610,7 @@
   {
     "principle_fighter":"Renato Moicano",
     "opponent_fighter":"Brian Ortega",
-    "result":"",
+    "result":"S",
     "fight_date":"2026-03-07"
   },
   {
@@ -1806,6 +1782,18 @@
     "fight_date":"2024-03-09"
   },
   {
+    "principle_fighter":"Shavkat Rakhmonov",
+    "opponent_fighter":"Ian Machado Garry",
+    "result":"W",
+    "fight_date":"2024-12-07"
+  },
+  {
+    "principle_fighter":"Shavkat Rakhmonov",
+    "opponent_fighter":"Geoff Neal",
+    "result":"W",
+    "fight_date":"2023-03-04"
+  },
+  {
     "principle_fighter":"Ian Machado Garry",
     "opponent_fighter":"Belal Muhammad",
     "result":"W",
@@ -1840,18 +1828,6 @@
     "opponent_fighter":"Daniel Rodriguez",
     "result":"W",
     "fight_date":"2023-05-13"
-  },
-  {
-    "principle_fighter":"Shavkat Rakhmonov",
-    "opponent_fighter":"Ian Machado Garry",
-    "result":"W",
-    "fight_date":"2024-12-07"
-  },
-  {
-    "principle_fighter":"Shavkat Rakhmonov",
-    "opponent_fighter":"Geoff Neal",
-    "result":"W",
-    "fight_date":"2023-03-04"
   },
   {
     "principle_fighter":"Michael Morales",
@@ -2112,30 +2088,6 @@
     "fight_date":"2018-07-07"
   },
   {
-    "principle_fighter":"Colby Covington",
-    "opponent_fighter":"Joaquin Buckley",
-    "result":"L",
-    "fight_date":"2024-12-14"
-  },
-  {
-    "principle_fighter":"Colby Covington",
-    "opponent_fighter":"Leon Edwards",
-    "result":"L",
-    "fight_date":"2023-12-16"
-  },
-  {
-    "principle_fighter":"Colby Covington",
-    "opponent_fighter":"Kamaru Usman",
-    "result":"L",
-    "fight_date":"2021-11-06"
-  },
-  {
-    "principle_fighter":"Colby Covington",
-    "opponent_fighter":"Kamaru Usman",
-    "result":"L",
-    "fight_date":"2019-12-14"
-  },
-  {
     "principle_fighter":"Geoff Neal",
     "opponent_fighter":"Carlos Prates",
     "result":"L",
@@ -2158,6 +2110,30 @@
     "opponent_fighter":"Belal Muhammad",
     "result":"W",
     "fight_date":"2019-01-19"
+  },
+  {
+    "principle_fighter":"Colby Covington",
+    "opponent_fighter":"Joaquin Buckley",
+    "result":"L",
+    "fight_date":"2024-12-14"
+  },
+  {
+    "principle_fighter":"Colby Covington",
+    "opponent_fighter":"Leon Edwards",
+    "result":"L",
+    "fight_date":"2023-12-16"
+  },
+  {
+    "principle_fighter":"Colby Covington",
+    "opponent_fighter":"Kamaru Usman",
+    "result":"L",
+    "fight_date":"2021-11-06"
+  },
+  {
+    "principle_fighter":"Colby Covington",
+    "opponent_fighter":"Kamaru Usman",
+    "result":"L",
+    "fight_date":"2019-12-14"
   },
   {
     "principle_fighter":"Daniel Rodriguez",
@@ -2461,6 +2437,12 @@
   },
   {
     "principle_fighter":"Caio Borralho",
+    "opponent_fighter":"Reinier de Ridder",
+    "result":"S",
+    "fight_date":"2026-03-07"
+  },
+  {
+    "principle_fighter":"Caio Borralho",
     "opponent_fighter":"Nassourdine Imavov",
     "result":"L",
     "fight_date":"2025-09-06"
@@ -2482,6 +2464,12 @@
     "opponent_fighter":"Jailton Almeida",
     "result":"L",
     "fight_date":"2021-05-15"
+  },
+  {
+    "principle_fighter":"Reinier de Ridder",
+    "opponent_fighter":"Caio Borralho",
+    "result":"S",
+    "fight_date":"2026-03-07"
   },
   {
     "principle_fighter":"Reinier de Ridder",
@@ -3453,7 +3441,7 @@
     "principle_fighter":"Serghei Spivac",
     "opponent_fighter":"Ante Delija",
     "result":"S",
-    "fight_date":"2026-01-31"
+    "fight_date":"2026-02-21"
   },
   {
     "principle_fighter":"Serghei Spivac",
@@ -3567,7 +3555,7 @@
     "principle_fighter":"Ante Delija",
     "opponent_fighter":"Serghei Spivac",
     "result":"S",
-    "fight_date":"2026-01-31"
+    "fight_date":"2026-02-21"
   },
   {
     "principle_fighter":"Ante Delija",
@@ -4410,42 +4398,6 @@
     "fight_date":"2022-06-18"
   },
   {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Natalia Silva",
-    "result":"L",
-    "fight_date":"2025-05-10"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Valentina Shevchenko",
-    "result":"L",
-    "fight_date":"2024-09-14"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Valentina Shevchenko",
-    "result":"D",
-    "fight_date":"2023-09-16"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Valentina Shevchenko",
-    "result":"W",
-    "fight_date":"2023-03-04"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Maycee Barber",
-    "result":"W",
-    "fight_date":"2021-02-13"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Tatiana Suarez",
-    "result":"L",
-    "fight_date":"2018-05-19"
-  },
-  {
     "principle_fighter":"Erin Blanchfield",
     "opponent_fighter":"Tracy Cortez",
     "result":"W",
@@ -4486,6 +4438,42 @@
     "opponent_fighter":"Tracy Cortez",
     "result":"L",
     "fight_date":"2019-02-15"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Natalia Silva",
+    "result":"L",
+    "fight_date":"2025-05-10"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Valentina Shevchenko",
+    "result":"L",
+    "fight_date":"2024-09-14"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Valentina Shevchenko",
+    "result":"D",
+    "fight_date":"2023-09-16"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Valentina Shevchenko",
+    "result":"W",
+    "fight_date":"2023-03-04"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Maycee Barber",
+    "result":"W",
+    "fight_date":"2021-02-13"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Tatiana Suarez",
+    "result":"L",
+    "fight_date":"2018-05-19"
   },
   {
     "principle_fighter":"Maycee Barber",
@@ -4668,12 +4656,6 @@
     "fight_date":"2019-02-15"
   },
   {
-    "principle_fighter":"Karine Silva",
-    "opponent_fighter":"Maycee Barber",
-    "result":"L",
-    "fight_date":"2025-12-06"
-  },
-  {
     "principle_fighter":"Miranda Maverick",
     "opponent_fighter":"Rose Namajunas",
     "result":"L",
@@ -4702,6 +4684,12 @@
     "opponent_fighter":"Gillian Robertson",
     "result":"W",
     "fight_date":"2021-03-27"
+  },
+  {
+    "principle_fighter":"Karine Silva",
+    "opponent_fighter":"Maycee Barber",
+    "result":"L",
+    "fight_date":"2025-12-06"
   },
   {
     "principle_fighter":"Casey O'Neill",
