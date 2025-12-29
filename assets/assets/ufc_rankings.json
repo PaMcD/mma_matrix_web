@@ -919,15 +919,15 @@
   },
   {
     "division":"Women's Flyweight",
-    "fighter_name":"Miranda Maverick",
-    "rank":9,
-    "movement":1
-  },
-  {
-    "division":"Women's Flyweight",
     "fighter_name":"Karine Silva",
     "rank":9,
     "movement":0
+  },
+  {
+    "division":"Women's Flyweight",
+    "fighter_name":"Miranda Maverick",
+    "rank":9,
+    "movement":1
   },
   {
     "division":"Women's Flyweight",
