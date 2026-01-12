@@ -583,13 +583,13 @@
   },
   {
     "division":"Light Heavyweight",
-    "fighter_name":"Magomed Ankalaev",
+    "fighter_name":"Jiří Procházka",
     "rank":1,
     "movement":0
   },
   {
     "division":"Light Heavyweight",
-    "fighter_name":"Jiří Procházka",
+    "fighter_name":"Magomed Ankalaev",
     "rank":1,
     "movement":0
   },
@@ -883,15 +883,15 @@
   },
   {
     "division":"Women's Flyweight",
-    "fighter_name":"Alexa Grasso",
-    "rank":3,
-    "movement":0
-  },
-  {
-    "division":"Women's Flyweight",
     "fighter_name":"Erin Blanchfield",
     "rank":3,
     "movement":1
+  },
+  {
+    "division":"Women's Flyweight",
+    "fighter_name":"Alexa Grasso",
+    "rank":3,
+    "movement":0
   },
   {
     "division":"Women's Flyweight",

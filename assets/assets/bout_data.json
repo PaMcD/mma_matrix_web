@@ -2706,6 +2706,48 @@
     "fight_date":"2016-04-02"
   },
   {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Khalil Rountree Jr.",
+    "result":"W",
+    "fight_date":"2025-10-04"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Jamahal Hill",
+    "result":"W",
+    "fight_date":"2025-01-18"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2024-06-29"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Aleksandar Rakić",
+    "result":"W",
+    "fight_date":"2024-04-13"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2023-11-11"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"W",
+    "fight_date":"2021-05-01"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"W",
+    "fight_date":"2020-07-11"
+  },
+  {
     "principle_fighter":"Magomed Ankalaev",
     "opponent_fighter":"Alex Pereira",
     "result":"L",
@@ -2752,48 +2794,6 @@
     "opponent_fighter":"Nikita Krylov",
     "result":"W",
     "fight_date":"2021-02-27"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Khalil Rountree Jr.",
-    "result":"W",
-    "fight_date":"2025-10-04"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Jamahal Hill",
-    "result":"W",
-    "fight_date":"2025-01-18"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2024-06-29"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Aleksandar Rakić",
-    "result":"W",
-    "fight_date":"2024-04-13"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2023-11-11"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Dominick Reyes",
-    "result":"W",
-    "fight_date":"2021-05-01"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Volkan Oezdemir",
-    "result":"W",
-    "fight_date":"2020-07-11"
   },
   {
     "principle_fighter":"Carlos Ulberg",
@@ -3589,6 +3589,12 @@
   },
   {
     "principle_fighter":"Marcin Tybura",
+    "opponent_fighter":"Valter Walker",
+    "result":"S",
+    "fight_date":"2026-03-28"
+  },
+  {
+    "principle_fighter":"Marcin Tybura",
     "opponent_fighter":"Ante Delija",
     "result":"L",
     "fight_date":"2025-09-06"
@@ -3694,6 +3700,12 @@
     "opponent_fighter":"Marcin Tybura",
     "result":"L",
     "fight_date":"2025-03-22"
+  },
+  {
+    "principle_fighter":"Valter Walker",
+    "opponent_fighter":"Marcin Tybura",
+    "result":"S",
+    "fight_date":"2026-03-28"
   },
   {
     "principle_fighter":"Tallison Teixeira",
@@ -3805,6 +3817,12 @@
   },
   {
     "principle_fighter":"Tatiana Suarez",
+    "opponent_fighter":"Loopy Godinez",
+    "result":"S",
+    "fight_date":"2026-04-11"
+  },
+  {
+    "principle_fighter":"Tatiana Suarez",
     "opponent_fighter":"Amanda Lemos",
     "result":"W",
     "fight_date":"2025-09-13"
@@ -3832,6 +3850,12 @@
     "opponent_fighter":"JJ Aldrich",
     "result":"W",
     "fight_date":"2016-02-05"
+  },
+  {
+    "principle_fighter":"Virna Jandiroba",
+    "opponent_fighter":"Tabatha Ricci",
+    "result":"S",
+    "fight_date":"2026-04-04"
   },
   {
     "principle_fighter":"Virna Jandiroba",
@@ -3961,6 +3985,12 @@
   },
   {
     "principle_fighter":"Loopy Godinez",
+    "opponent_fighter":"Tatiana Suarez",
+    "result":"S",
+    "fight_date":"2026-04-11"
+  },
+  {
+    "principle_fighter":"Loopy Godinez",
     "opponent_fighter":"Jéssica Andrade",
     "result":"W",
     "fight_date":"2025-08-16"
@@ -4006,6 +4036,12 @@
     "opponent_fighter":"Gabriella Fernandes",
     "result":"L",
     "fight_date":"2018-03-24"
+  },
+  {
+    "principle_fighter":"Tabatha Ricci",
+    "opponent_fighter":"Virna Jandiroba",
+    "result":"S",
+    "fight_date":"2026-04-04"
   },
   {
     "principle_fighter":"Tabatha Ricci",
@@ -4410,42 +4446,6 @@
     "fight_date":"2022-06-18"
   },
   {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Natalia Silva",
-    "result":"L",
-    "fight_date":"2025-05-10"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Valentina Shevchenko",
-    "result":"L",
-    "fight_date":"2024-09-14"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Valentina Shevchenko",
-    "result":"D",
-    "fight_date":"2023-09-16"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Valentina Shevchenko",
-    "result":"W",
-    "fight_date":"2023-03-04"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Maycee Barber",
-    "result":"W",
-    "fight_date":"2021-02-13"
-  },
-  {
-    "principle_fighter":"Alexa Grasso",
-    "opponent_fighter":"Tatiana Suarez",
-    "result":"L",
-    "fight_date":"2018-05-19"
-  },
-  {
     "principle_fighter":"Erin Blanchfield",
     "opponent_fighter":"Tracy Cortez",
     "result":"W",
@@ -4486,6 +4486,54 @@
     "opponent_fighter":"Tracy Cortez",
     "result":"L",
     "fight_date":"2019-02-15"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Maycee Barber",
+    "result":"S",
+    "fight_date":"2026-03-28"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Natalia Silva",
+    "result":"L",
+    "fight_date":"2025-05-10"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Valentina Shevchenko",
+    "result":"L",
+    "fight_date":"2024-09-14"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Valentina Shevchenko",
+    "result":"D",
+    "fight_date":"2023-09-16"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Valentina Shevchenko",
+    "result":"W",
+    "fight_date":"2023-03-04"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Maycee Barber",
+    "result":"W",
+    "fight_date":"2021-02-13"
+  },
+  {
+    "principle_fighter":"Alexa Grasso",
+    "opponent_fighter":"Tatiana Suarez",
+    "result":"L",
+    "fight_date":"2018-05-19"
+  },
+  {
+    "principle_fighter":"Maycee Barber",
+    "opponent_fighter":"Alexa Grasso",
+    "result":"S",
+    "fight_date":"2026-03-28"
   },
   {
     "principle_fighter":"Maycee Barber",
@@ -4705,6 +4753,12 @@
   },
   {
     "principle_fighter":"Casey O'Neill",
+    "opponent_fighter":"Gabriella Fernandes",
+    "result":"S",
+    "fight_date":"2026-03-28"
+  },
+  {
+    "principle_fighter":"Casey O'Neill",
     "opponent_fighter":"Luana Santos",
     "result":"W",
     "fight_date":"2024-08-17"
@@ -4768,6 +4822,12 @@
     "opponent_fighter":"Raquel Pennington",
     "result":"L",
     "fight_date":"2011-01-20"
+  },
+  {
+    "principle_fighter":"Gabriella Fernandes",
+    "opponent_fighter":"Casey O'Neill",
+    "result":"S",
+    "fight_date":"2026-03-28"
   },
   {
     "principle_fighter":"Gabriella Fernandes",
