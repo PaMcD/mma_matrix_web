@@ -745,6 +745,12 @@
   },
   {
     "principle_fighter":"Marlon Vera",
+    "opponent_fighter":"David Martinez",
+    "result":"S",
+    "fight_date":"2026-02-28"
+  },
+  {
+    "principle_fighter":"Marlon Vera",
     "opponent_fighter":"Aiemann Zahabi",
     "result":"L",
     "fight_date":"2025-10-18"
@@ -802,6 +808,12 @@
     "opponent_fighter":"Cory Sandhagen",
     "result":"L",
     "fight_date":"2019-01-19"
+  },
+  {
+    "principle_fighter":"David Martinez",
+    "opponent_fighter":"Marlon Vera",
+    "result":"S",
+    "fight_date":"2026-02-28"
   },
   {
     "principle_fighter":"David Martinez",
@@ -1165,6 +1177,12 @@
   },
   {
     "principle_fighter":"Josh Emmett",
+    "opponent_fighter":"Kevin Vallejos",
+    "result":"S",
+    "fight_date":"2026-03-14"
+  },
+  {
+    "principle_fighter":"Josh Emmett",
     "opponent_fighter":"Youssef Zalal",
     "result":"L",
     "fight_date":"2025-10-04"
@@ -1210,6 +1228,12 @@
     "opponent_fighter":"Michael Chandler",
     "result":"W",
     "fight_date":"2019-05-11"
+  },
+  {
+    "principle_fighter":"Kevin Vallejos",
+    "opponent_fighter":"Josh Emmett",
+    "result":"S",
+    "fight_date":"2026-03-14"
   },
   {
     "principle_fighter":"Dan Ige",
@@ -2365,6 +2389,12 @@
   },
   {
     "principle_fighter":"Israel Adesanya",
+    "opponent_fighter":"Joe Pyfer",
+    "result":"S",
+    "fight_date":"2026-03-28"
+  },
+  {
+    "principle_fighter":"Israel Adesanya",
     "opponent_fighter":"Nassourdine Imavov",
     "result":"L",
     "fight_date":"2025-02-01"
@@ -2605,6 +2635,12 @@
   },
   {
     "principle_fighter":"Paulo Costa",
+    "opponent_fighter":"Azamat Murzakanov",
+    "result":"S",
+    "fight_date":"2026-04-11"
+  },
+  {
+    "principle_fighter":"Paulo Costa",
     "opponent_fighter":"Sean Strickland",
     "result":"L",
     "fight_date":"2024-06-01"
@@ -2626,6 +2662,12 @@
     "opponent_fighter":"Jared Cannonier",
     "result":"L",
     "fight_date":"2025-02-15"
+  },
+  {
+    "principle_fighter":"Joe Pyfer",
+    "opponent_fighter":"Israel Adesanya",
+    "result":"S",
+    "fight_date":"2026-03-28"
   },
   {
     "principle_fighter":"Alex Pereira",
@@ -2706,48 +2748,6 @@
     "fight_date":"2016-04-02"
   },
   {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Khalil Rountree Jr.",
-    "result":"W",
-    "fight_date":"2025-10-04"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Jamahal Hill",
-    "result":"W",
-    "fight_date":"2025-01-18"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2024-06-29"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Aleksandar Rakić",
-    "result":"W",
-    "fight_date":"2024-04-13"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Alex Pereira",
-    "result":"L",
-    "fight_date":"2023-11-11"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Dominick Reyes",
-    "result":"W",
-    "fight_date":"2021-05-01"
-  },
-  {
-    "principle_fighter":"Jiří Procházka",
-    "opponent_fighter":"Volkan Oezdemir",
-    "result":"W",
-    "fight_date":"2020-07-11"
-  },
-  {
     "principle_fighter":"Magomed Ankalaev",
     "opponent_fighter":"Alex Pereira",
     "result":"L",
@@ -2794,6 +2794,48 @@
     "opponent_fighter":"Nikita Krylov",
     "result":"W",
     "fight_date":"2021-02-27"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Khalil Rountree Jr.",
+    "result":"W",
+    "fight_date":"2025-10-04"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Jamahal Hill",
+    "result":"W",
+    "fight_date":"2025-01-18"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2024-06-29"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Aleksandar Rakić",
+    "result":"W",
+    "fight_date":"2024-04-13"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2023-11-11"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"W",
+    "fight_date":"2021-05-01"
+  },
+  {
+    "principle_fighter":"Jiří Procházka",
+    "opponent_fighter":"Volkan Oezdemir",
+    "result":"W",
+    "fight_date":"2020-07-11"
   },
   {
     "principle_fighter":"Carlos Ulberg",
@@ -2896,6 +2938,12 @@
     "opponent_fighter":"Jared Cannonier",
     "result":"W",
     "fight_date":"2017-12-16"
+  },
+  {
+    "principle_fighter":"Azamat Murzakanov",
+    "opponent_fighter":"Paulo Costa",
+    "result":"S",
+    "fight_date":"2026-04-11"
   },
   {
     "principle_fighter":"Azamat Murzakanov",
@@ -4446,48 +4494,6 @@
     "fight_date":"2022-06-18"
   },
   {
-    "principle_fighter":"Erin Blanchfield",
-    "opponent_fighter":"Tracy Cortez",
-    "result":"W",
-    "fight_date":"2025-11-15"
-  },
-  {
-    "principle_fighter":"Erin Blanchfield",
-    "opponent_fighter":"Rose Namajunas",
-    "result":"W",
-    "fight_date":"2024-11-02"
-  },
-  {
-    "principle_fighter":"Erin Blanchfield",
-    "opponent_fighter":"Manon Fiorot",
-    "result":"L",
-    "fight_date":"2024-03-30"
-  },
-  {
-    "principle_fighter":"Erin Blanchfield",
-    "opponent_fighter":"Jéssica Andrade",
-    "result":"W",
-    "fight_date":"2023-02-18"
-  },
-  {
-    "principle_fighter":"Erin Blanchfield",
-    "opponent_fighter":"JJ Aldrich",
-    "result":"W",
-    "fight_date":"2022-06-04"
-  },
-  {
-    "principle_fighter":"Erin Blanchfield",
-    "opponent_fighter":"Miranda Maverick",
-    "result":"W",
-    "fight_date":"2021-12-11"
-  },
-  {
-    "principle_fighter":"Erin Blanchfield",
-    "opponent_fighter":"Tracy Cortez",
-    "result":"L",
-    "fight_date":"2019-02-15"
-  },
-  {
     "principle_fighter":"Alexa Grasso",
     "opponent_fighter":"Maycee Barber",
     "result":"S",
@@ -4528,6 +4534,48 @@
     "opponent_fighter":"Tatiana Suarez",
     "result":"L",
     "fight_date":"2018-05-19"
+  },
+  {
+    "principle_fighter":"Erin Blanchfield",
+    "opponent_fighter":"Tracy Cortez",
+    "result":"W",
+    "fight_date":"2025-11-15"
+  },
+  {
+    "principle_fighter":"Erin Blanchfield",
+    "opponent_fighter":"Rose Namajunas",
+    "result":"W",
+    "fight_date":"2024-11-02"
+  },
+  {
+    "principle_fighter":"Erin Blanchfield",
+    "opponent_fighter":"Manon Fiorot",
+    "result":"L",
+    "fight_date":"2024-03-30"
+  },
+  {
+    "principle_fighter":"Erin Blanchfield",
+    "opponent_fighter":"Jéssica Andrade",
+    "result":"W",
+    "fight_date":"2023-02-18"
+  },
+  {
+    "principle_fighter":"Erin Blanchfield",
+    "opponent_fighter":"JJ Aldrich",
+    "result":"W",
+    "fight_date":"2022-06-04"
+  },
+  {
+    "principle_fighter":"Erin Blanchfield",
+    "opponent_fighter":"Miranda Maverick",
+    "result":"W",
+    "fight_date":"2021-12-11"
+  },
+  {
+    "principle_fighter":"Erin Blanchfield",
+    "opponent_fighter":"Tracy Cortez",
+    "result":"L",
+    "fight_date":"2019-02-15"
   },
   {
     "principle_fighter":"Maycee Barber",
