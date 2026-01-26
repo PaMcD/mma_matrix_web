@@ -338,7 +338,7 @@
   {
     "principle_fighter":"Alex Perez",
     "opponent_fighter":"Charles Johnson",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-01-24"
   },
   {
@@ -386,7 +386,7 @@
   {
     "principle_fighter":"Charles Johnson",
     "opponent_fighter":"Alex Perez",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-01-24"
   },
   {
@@ -512,7 +512,7 @@
   {
     "principle_fighter":"Umar Nurmagomedov",
     "opponent_fighter":"Deiveson Figueiredo",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-01-24"
   },
   {
@@ -536,7 +536,7 @@
   {
     "principle_fighter":"Sean O'Malley",
     "opponent_fighter":"Song Yadong",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-01-24"
   },
   {
@@ -632,7 +632,7 @@
   {
     "principle_fighter":"Song Yadong",
     "opponent_fighter":"Sean O'Malley",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-01-24"
   },
   {
@@ -662,7 +662,7 @@
   {
     "principle_fighter":"Deiveson Figueiredo",
     "opponent_fighter":"Umar Nurmagomedov",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-01-24"
   },
   {
@@ -1454,7 +1454,7 @@
   {
     "principle_fighter":"Justin Gaethje",
     "opponent_fighter":"Paddy Pimblett",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-01-24"
   },
   {
@@ -1490,7 +1490,7 @@
   {
     "principle_fighter":"Paddy Pimblett",
     "opponent_fighter":"Justin Gaethje",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-01-24"
   },
   {
@@ -3440,7 +3440,7 @@
   {
     "principle_fighter":"Waldo Cortes Acosta",
     "opponent_fighter":"Derrick Lewis",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-01-24"
   },
   {
@@ -3554,7 +3554,7 @@
   {
     "principle_fighter":"Derrick Lewis",
     "opponent_fighter":"Waldo Cortes Acosta",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-01-24"
   },
   {
@@ -4472,7 +4472,7 @@
   {
     "principle_fighter":"Natalia Silva",
     "opponent_fighter":"Rose Namajunas",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-01-24"
   },
   {
@@ -4622,7 +4622,7 @@
   {
     "principle_fighter":"Rose Namajunas",
     "opponent_fighter":"Natalia Silva",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-01-24"
   },
   {
