@@ -15,7 +15,7 @@
     "division":"Flyweight",
     "fighter_name":"Manel Kape",
     "rank":2,
-    "movement":4
+    "movement":0
   },
   {
     "division":"Flyweight",
@@ -27,19 +27,19 @@
     "division":"Flyweight",
     "fighter_name":"Brandon Royval",
     "rank":4,
-    "movement":-2
+    "movement":0
   },
   {
     "division":"Flyweight",
     "fighter_name":"Brandon Moreno",
     "rank":5,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Flyweight",
     "fighter_name":"Amir Albazi",
     "rank":6,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Flyweight",
@@ -61,15 +61,15 @@
   },
   {
     "division":"Flyweight",
-    "fighter_name":"Steve Erceg",
+    "fighter_name":"Alex Perez",
     "rank":10,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Flyweight",
-    "fighter_name":"Alex Perez",
+    "fighter_name":"Steve Erceg",
     "rank":11,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Flyweight",
@@ -133,15 +133,15 @@
   },
   {
     "division":"Bantamweight",
-    "fighter_name":"Deiveson Figueiredo",
+    "fighter_name":"Aiemann Zahabi",
     "rank":6,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Bantamweight",
-    "fighter_name":"Aiemann Zahabi",
+    "fighter_name":"Deiveson Figueiredo",
     "rank":7,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Bantamweight",
@@ -163,19 +163,19 @@
   },
   {
     "division":"Bantamweight",
-    "fighter_name":"Payton Talbott",
+    "fighter_name":"Vinicius Oliveira",
     "rank":11,
-    "movement":1
+    "movement":2
   },
   {
     "division":"Bantamweight",
-    "fighter_name":"Rob Font",
+    "fighter_name":"Payton Talbott",
     "rank":12,
     "movement":-1
   },
   {
     "division":"Bantamweight",
-    "fighter_name":"Vinicius Oliveira",
+    "fighter_name":"Rob Font",
     "rank":13,
     "movement":-1
   },
@@ -229,39 +229,39 @@
   },
   {
     "division":"Featherweight",
-    "fighter_name":"Arnold Allen",
+    "fighter_name":"Jean Silva",
     "rank":6,
-    "movement":0
+    "movement":4
+  },
+  {
+    "division":"Featherweight",
+    "fighter_name":"Arnold Allen",
+    "rank":7,
+    "movement":-1
   },
   {
     "division":"Featherweight",
     "fighter_name":"Youssef Zalal",
-    "rank":7,
-    "movement":0
+    "rank":8,
+    "movement":-1
   },
   {
     "division":"Featherweight",
     "fighter_name":"Steve Garcia",
-    "rank":8,
-    "movement":0
+    "rank":9,
+    "movement":-1
   },
   {
     "division":"Featherweight",
     "fighter_name":"Brian Ortega",
-    "rank":9,
-    "movement":0
-  },
-  {
-    "division":"Featherweight",
-    "fighter_name":"Jean Silva",
     "rank":10,
-    "movement":1
+    "movement":-1
   },
   {
     "division":"Featherweight",
     "fighter_name":"Josh Emmett",
     "rank":11,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Featherweight",
@@ -279,13 +279,13 @@
     "division":"Featherweight",
     "fighter_name":"Dan Ige",
     "rank":14,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Featherweight",
     "fighter_name":"David Onama",
     "rank":15,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Lightweight",
@@ -295,27 +295,27 @@
   },
   {
     "division":"Lightweight",
-    "fighter_name":"Arman Tsarukyan",
+    "fighter_name":"Justin Gaethje",
     "rank":1,
     "movement":0
   },
   {
     "division":"Lightweight",
-    "fighter_name":"Charles Oliveira",
+    "fighter_name":"Arman Tsarukyan",
     "rank":2,
-    "movement":0
+    "movement":-1
+  },
+  {
+    "division":"Lightweight",
+    "fighter_name":"Charles Oliveira",
+    "rank":3,
+    "movement":-1
   },
   {
     "division":"Lightweight",
     "fighter_name":"Max Holloway",
-    "rank":3,
-    "movement":0
-  },
-  {
-    "division":"Lightweight",
-    "fighter_name":"Justin Gaethje",
     "rank":4,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Lightweight",
@@ -399,13 +399,13 @@
     "division":"Welterweight",
     "fighter_name":"Shavkat Rakhmonov",
     "rank":2,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Ian Machado Garry",
     "rank":3,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Welterweight",
@@ -465,13 +465,13 @@
     "division":"Welterweight",
     "fighter_name":"Geoff Neal",
     "rank":13,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Colby Covington",
     "rank":14,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Welterweight",
@@ -547,31 +547,31 @@
   },
   {
     "division":"Middleweight",
-    "fighter_name":"Michael Page",
-    "rank":10,
-    "movement":0
-  },
-  {
-    "division":"Middleweight",
     "fighter_name":"Roman Dolidze",
-    "rank":12,
-    "movement":0
+    "rank":11,
+    "movement":1
   },
   {
     "division":"Middleweight",
     "fighter_name":"Paulo Costa",
-    "rank":13,
-    "movement":0
+    "rank":12,
+    "movement":1
   },
   {
     "division":"Middleweight",
     "fighter_name":"Gregory Rodrigues",
-    "rank":14,
-    "movement":0
+    "rank":13,
+    "movement":1
   },
   {
     "division":"Middleweight",
     "fighter_name":"Joe Pyfer",
+    "rank":14,
+    "movement":1
+  },
+  {
+    "division":"Middleweight",
+    "fighter_name":"Brunno Ferreira",
     "rank":15,
     "movement":0
   },
@@ -631,15 +631,15 @@
   },
   {
     "division":"Light Heavyweight",
-    "fighter_name":"Dominick Reyes",
+    "fighter_name":"Bogdan Guskov",
     "rank":9,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Light Heavyweight",
-    "fighter_name":"Bogdan Guskov",
+    "fighter_name":"Dominick Reyes",
     "rank":10,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Light Heavyweight",
@@ -721,9 +721,9 @@
   },
   {
     "division":"Heavyweight",
-    "fighter_name":"Derrick Lewis",
+    "fighter_name":"Marcin Tybura",
     "rank":8,
-    "movement":0
+    "movement":2
   },
   {
     "division":"Heavyweight",
@@ -733,9 +733,9 @@
   },
   {
     "division":"Heavyweight",
-    "fighter_name":"Marcin Tybura",
+    "fighter_name":"Derrick Lewis",
     "rank":10,
-    "movement":0
+    "movement":-2
   },
   {
     "division":"Heavyweight",
@@ -878,20 +878,20 @@
   {
     "division":"Women's Flyweight",
     "fighter_name":"Natalia Silva",
-    "rank":2,
-    "movement":0
-  },
-  {
-    "division":"Women's Flyweight",
-    "fighter_name":"Alexa Grasso",
-    "rank":3,
-    "movement":0
+    "rank":1,
+    "movement":1
   },
   {
     "division":"Women's Flyweight",
     "fighter_name":"Erin Blanchfield",
     "rank":3,
-    "movement":1
+    "movement":0
+  },
+  {
+    "division":"Women's Flyweight",
+    "fighter_name":"Alexa Grasso",
+    "rank":4,
+    "movement":-1
   },
   {
     "division":"Women's Flyweight",
@@ -901,15 +901,15 @@
   },
   {
     "division":"Women's Flyweight",
-    "fighter_name":"Rose Namajunas",
+    "fighter_name":"Jasmine Jasudavicius",
     "rank":6,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Women's Flyweight",
-    "fighter_name":"Jasmine Jasudavicius",
+    "fighter_name":"Rose Namajunas",
     "rank":7,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Women's Flyweight",
@@ -926,8 +926,8 @@
   {
     "division":"Women's Flyweight",
     "fighter_name":"Miranda Maverick",
-    "rank":9,
-    "movement":1
+    "rank":10,
+    "movement":-1
   },
   {
     "division":"Women's Flyweight",
