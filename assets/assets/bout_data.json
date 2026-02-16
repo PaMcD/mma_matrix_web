@@ -174,6 +174,24 @@
     "fight_date":"2018-09-07"
   },
   {
+    "principle_fighter":"Kyoji Horiguchi",
+    "opponent_fighter":"Amir Albazi",
+    "result":"W",
+    "fight_date":"2026-02-07"
+  },
+  {
+    "principle_fighter":"Kyoji Horiguchi",
+    "opponent_fighter":"Tagir Ulanbekov",
+    "result":"W",
+    "fight_date":"2025-11-22"
+  },
+  {
+    "principle_fighter":"Kyoji Horiguchi",
+    "opponent_fighter":"Manel Kape",
+    "result":"W",
+    "fight_date":"2017-12-31"
+  },
+  {
     "principle_fighter":"Brandon Moreno",
     "opponent_fighter":"Lone’er Kavanagh",
     "result":"S",
@@ -280,24 +298,6 @@
     "opponent_fighter":"Tagir Ulanbekov",
     "result":"L",
     "fight_date":"2017-01-28"
-  },
-  {
-    "principle_fighter":"Kyoji Horiguchi",
-    "opponent_fighter":"Amir Albazi",
-    "result":"W",
-    "fight_date":"2026-02-07"
-  },
-  {
-    "principle_fighter":"Kyoji Horiguchi",
-    "opponent_fighter":"Tagir Ulanbekov",
-    "result":"W",
-    "fight_date":"2025-11-22"
-  },
-  {
-    "principle_fighter":"Kyoji Horiguchi",
-    "opponent_fighter":"Manel Kape",
-    "result":"W",
-    "fight_date":"2017-12-31"
   },
   {
     "principle_fighter":"Tim Elliott",
@@ -744,6 +744,24 @@
     "fight_date":"2019-07-27"
   },
   {
+    "principle_fighter":"Mario Bautista",
+    "opponent_fighter":"Vinicius Oliveira",
+    "result":"W",
+    "fight_date":"2026-02-07"
+  },
+  {
+    "principle_fighter":"Mario Bautista",
+    "opponent_fighter":"Umar Nurmagomedov",
+    "result":"L",
+    "fight_date":"2025-10-25"
+  },
+  {
+    "principle_fighter":"Mario Bautista",
+    "opponent_fighter":"Cory Sandhagen",
+    "result":"L",
+    "fight_date":"2019-01-19"
+  },
+  {
     "principle_fighter":"Marlon Vera",
     "opponent_fighter":"David Martinez",
     "result":"S",
@@ -790,24 +808,6 @@
     "opponent_fighter":"Song Yadong",
     "result":"L",
     "fight_date":"2020-05-16"
-  },
-  {
-    "principle_fighter":"Mario Bautista",
-    "opponent_fighter":"Vinicius Oliveira",
-    "result":"W",
-    "fight_date":"2026-02-07"
-  },
-  {
-    "principle_fighter":"Mario Bautista",
-    "opponent_fighter":"Umar Nurmagomedov",
-    "result":"L",
-    "fight_date":"2025-10-25"
-  },
-  {
-    "principle_fighter":"Mario Bautista",
-    "opponent_fighter":"Cory Sandhagen",
-    "result":"L",
-    "fight_date":"2019-01-19"
   },
   {
     "principle_fighter":"David Martinez",
@@ -2112,6 +2112,24 @@
     "fight_date":"2019-01-19"
   },
   {
+    "principle_fighter":"Daniel Rodriguez",
+    "opponent_fighter":"Ian Machado Garry",
+    "result":"L",
+    "fight_date":"2023-05-13"
+  },
+  {
+    "principle_fighter":"Michael Page",
+    "opponent_fighter":"Jared Cannonier",
+    "result":"W",
+    "fight_date":"2025-08-16"
+  },
+  {
+    "principle_fighter":"Michael Page",
+    "opponent_fighter":"Ian Machado Garry",
+    "result":"L",
+    "fight_date":"2024-06-29"
+  },
+  {
     "principle_fighter":"Colby Covington",
     "opponent_fighter":"Joaquin Buckley",
     "result":"L",
@@ -2134,24 +2152,6 @@
     "opponent_fighter":"Kamaru Usman",
     "result":"L",
     "fight_date":"2019-12-14"
-  },
-  {
-    "principle_fighter":"Daniel Rodriguez",
-    "opponent_fighter":"Ian Machado Garry",
-    "result":"L",
-    "fight_date":"2023-05-13"
-  },
-  {
-    "principle_fighter":"Michael Page",
-    "opponent_fighter":"Jared Cannonier",
-    "result":"W",
-    "fight_date":"2025-08-16"
-  },
-  {
-    "principle_fighter":"Michael Page",
-    "opponent_fighter":"Ian Machado Garry",
-    "result":"L",
-    "fight_date":"2024-06-29"
   },
   {
     "principle_fighter":"Khamzat Chimaev",
@@ -2748,6 +2748,12 @@
     "fight_date":"2016-04-02"
   },
   {
+    "principle_fighter":"Alex Pereira",
+    "opponent_fighter":"Dustin Jacoby",
+    "result":"W",
+    "fight_date":"2014-03-08"
+  },
+  {
     "principle_fighter":"Magomed Ankalaev",
     "opponent_fighter":"Alex Pereira",
     "result":"L",
@@ -2856,12 +2862,6 @@
     "fight_date":"2024-11-23"
   },
   {
-    "principle_fighter":"Carlos Ulberg",
-    "opponent_fighter":"Alonzo Menifield",
-    "result":"W",
-    "fight_date":"2024-05-11"
-  },
-  {
     "principle_fighter":"Khalil Rountree Jr.",
     "opponent_fighter":"Jiří Procházka",
     "result":"L",
@@ -2878,6 +2878,12 @@
     "opponent_fighter":"Alex Pereira",
     "result":"L",
     "fight_date":"2024-10-05"
+  },
+  {
+    "principle_fighter":"Khalil Rountree Jr.",
+    "opponent_fighter":"Dustin Jacoby",
+    "result":"W",
+    "fight_date":"2022-10-29"
   },
   {
     "principle_fighter":"Khalil Rountree Jr.",
@@ -2953,9 +2959,9 @@
   },
   {
     "principle_fighter":"Azamat Murzakanov",
-    "opponent_fighter":"Alonzo Menifield",
+    "opponent_fighter":"Dustin Jacoby",
     "result":"W",
-    "fight_date":"2024-08-03"
+    "fight_date":"2023-04-15"
   },
   {
     "principle_fighter":"Jamahal Hill",
@@ -2980,12 +2986,6 @@
     "opponent_fighter":"Johnny Walker",
     "result":"W",
     "fight_date":"2022-02-19"
-  },
-  {
-    "principle_fighter":"Volkan Oezdemir",
-    "opponent_fighter":"Alonzo Menifield",
-    "result":"W",
-    "fight_date":"2025-11-22"
   },
   {
     "principle_fighter":"Volkan Oezdemir",
@@ -3070,6 +3070,12 @@
     "opponent_fighter":"Nikita Krylov",
     "result":"W",
     "fight_date":"2025-04-12"
+  },
+  {
+    "principle_fighter":"Dominick Reyes",
+    "opponent_fighter":"Dustin Jacoby",
+    "result":"W",
+    "fight_date":"2024-06-08"
   },
   {
     "principle_fighter":"Dominick Reyes",
@@ -3210,28 +3216,34 @@
     "fight_date":"2018-09-15"
   },
   {
+    "principle_fighter":"Dustin Jacoby",
+    "opponent_fighter":"Dominick Reyes",
+    "result":"L",
+    "fight_date":"2024-06-08"
+  },
+  {
+    "principle_fighter":"Dustin Jacoby",
+    "opponent_fighter":"Azamat Murzakanov",
+    "result":"L",
+    "fight_date":"2023-04-15"
+  },
+  {
+    "principle_fighter":"Dustin Jacoby",
+    "opponent_fighter":"Khalil Rountree Jr.",
+    "result":"L",
+    "fight_date":"2022-10-29"
+  },
+  {
+    "principle_fighter":"Dustin Jacoby",
+    "opponent_fighter":"Alex Pereira",
+    "result":"L",
+    "fight_date":"2014-03-08"
+  },
+  {
     "principle_fighter":"Zhang Mingyang",
     "opponent_fighter":"Johnny Walker",
     "result":"L",
     "fight_date":"2025-08-23"
-  },
-  {
-    "principle_fighter":"Alonzo Menifield",
-    "opponent_fighter":"Volkan Oezdemir",
-    "result":"L",
-    "fight_date":"2025-11-22"
-  },
-  {
-    "principle_fighter":"Alonzo Menifield",
-    "opponent_fighter":"Azamat Murzakanov",
-    "result":"L",
-    "fight_date":"2024-08-03"
-  },
-  {
-    "principle_fighter":"Alonzo Menifield",
-    "opponent_fighter":"Carlos Ulberg",
-    "result":"L",
-    "fight_date":"2024-05-11"
   },
   {
     "principle_fighter":"Tom Aspinall",
@@ -3295,12 +3307,6 @@
   },
   {
     "principle_fighter":"Ciryl Gane",
-    "opponent_fighter":"Tai Tuivasa",
-    "result":"W",
-    "fight_date":"2022-09-03"
-  },
-  {
-    "principle_fighter":"Ciryl Gane",
     "opponent_fighter":"Derrick Lewis",
     "result":"W",
     "fight_date":"2021-08-07"
@@ -3328,12 +3334,6 @@
     "opponent_fighter":"Sergei Pavlovich",
     "result":"W",
     "fight_date":"2024-06-22"
-  },
-  {
-    "principle_fighter":"Alexander Volkov",
-    "opponent_fighter":"Tai Tuivasa",
-    "result":"W",
-    "fight_date":"2023-09-09"
   },
   {
     "principle_fighter":"Alexander Volkov",
@@ -3391,15 +3391,15 @@
   },
   {
     "principle_fighter":"Sergei Pavlovich",
-    "opponent_fighter":"Tai Tuivasa",
-    "result":"W",
-    "fight_date":"2022-12-03"
-  },
-  {
-    "principle_fighter":"Sergei Pavlovich",
     "opponent_fighter":"Derrick Lewis",
     "result":"W",
     "fight_date":"2022-07-30"
+  },
+  {
+    "principle_fighter":"Curtis Blaydes",
+    "opponent_fighter":"Rizvan Kuniev",
+    "result":"W",
+    "fight_date":"2025-06-21"
   },
   {
     "principle_fighter":"Curtis Blaydes",
@@ -3468,34 +3468,16 @@
     "fight_date":"2025-06-07"
   },
   {
-    "principle_fighter":"Jailton Almeida",
-    "opponent_fighter":"Alexander Volkov",
-    "result":"L",
-    "fight_date":"2025-10-25"
-  },
-  {
-    "principle_fighter":"Jailton Almeida",
-    "opponent_fighter":"Serghei Spivac",
+    "principle_fighter":"Rizvan Kuniev",
+    "opponent_fighter":"Jailton Almeida",
     "result":"W",
-    "fight_date":"2025-01-18"
+    "fight_date":"2026-02-07"
   },
   {
-    "principle_fighter":"Jailton Almeida",
+    "principle_fighter":"Rizvan Kuniev",
     "opponent_fighter":"Curtis Blaydes",
     "result":"L",
-    "fight_date":"2024-03-09"
-  },
-  {
-    "principle_fighter":"Jailton Almeida",
-    "opponent_fighter":"Derrick Lewis",
-    "result":"W",
-    "fight_date":"2023-11-04"
-  },
-  {
-    "principle_fighter":"Jailton Almeida",
-    "opponent_fighter":"Caio Borralho",
-    "result":"W",
-    "fight_date":"2021-05-15"
+    "fight_date":"2025-06-21"
   },
   {
     "principle_fighter":"Serghei Spivac",
@@ -3546,10 +3528,64 @@
     "fight_date":"2020-02-29"
   },
   {
-    "principle_fighter":"Serghei Spivac",
-    "opponent_fighter":"Tai Tuivasa",
+    "principle_fighter":"Jailton Almeida",
+    "opponent_fighter":"Rizvan Kuniev",
+    "result":"L",
+    "fight_date":"2026-02-07"
+  },
+  {
+    "principle_fighter":"Jailton Almeida",
+    "opponent_fighter":"Alexander Volkov",
+    "result":"L",
+    "fight_date":"2025-10-25"
+  },
+  {
+    "principle_fighter":"Jailton Almeida",
+    "opponent_fighter":"Serghei Spivac",
     "result":"W",
-    "fight_date":"2019-10-05"
+    "fight_date":"2025-01-18"
+  },
+  {
+    "principle_fighter":"Jailton Almeida",
+    "opponent_fighter":"Curtis Blaydes",
+    "result":"L",
+    "fight_date":"2024-03-09"
+  },
+  {
+    "principle_fighter":"Jailton Almeida",
+    "opponent_fighter":"Derrick Lewis",
+    "result":"W",
+    "fight_date":"2023-11-04"
+  },
+  {
+    "principle_fighter":"Jailton Almeida",
+    "opponent_fighter":"Caio Borralho",
+    "result":"W",
+    "fight_date":"2021-05-15"
+  },
+  {
+    "principle_fighter":"Ante Delija",
+    "opponent_fighter":"Serghei Spivac",
+    "result":"S",
+    "fight_date":"2026-02-21"
+  },
+  {
+    "principle_fighter":"Ante Delija",
+    "opponent_fighter":"Waldo Cortes Acosta",
+    "result":"L",
+    "fight_date":"2025-11-01"
+  },
+  {
+    "principle_fighter":"Ante Delija",
+    "opponent_fighter":"Marcin Tybura",
+    "result":"W",
+    "fight_date":"2025-09-06"
+  },
+  {
+    "principle_fighter":"Ante Delija",
+    "opponent_fighter":"Marcin Tybura",
+    "result":"L",
+    "fight_date":"2015-09-20"
   },
   {
     "principle_fighter":"Marcin Tybura",
@@ -3574,12 +3610,6 @@
     "opponent_fighter":"Serghei Spivac",
     "result":"L",
     "fight_date":"2024-08-10"
-  },
-  {
-    "principle_fighter":"Marcin Tybura",
-    "opponent_fighter":"Tai Tuivasa",
-    "result":"W",
-    "fight_date":"2024-03-16"
   },
   {
     "principle_fighter":"Marcin Tybura",
@@ -3643,12 +3673,6 @@
   },
   {
     "principle_fighter":"Derrick Lewis",
-    "opponent_fighter":"Tai Tuivasa",
-    "result":"L",
-    "fight_date":"2022-02-12"
-  },
-  {
-    "principle_fighter":"Derrick Lewis",
     "opponent_fighter":"Ciryl Gane",
     "result":"L",
     "fight_date":"2021-08-07"
@@ -3672,36 +3696,6 @@
     "fight_date":"2018-02-18"
   },
   {
-    "principle_fighter":"Ante Delija",
-    "opponent_fighter":"Serghei Spivac",
-    "result":"S",
-    "fight_date":"2026-02-21"
-  },
-  {
-    "principle_fighter":"Ante Delija",
-    "opponent_fighter":"Waldo Cortes Acosta",
-    "result":"L",
-    "fight_date":"2025-11-01"
-  },
-  {
-    "principle_fighter":"Ante Delija",
-    "opponent_fighter":"Marcin Tybura",
-    "result":"W",
-    "fight_date":"2025-09-06"
-  },
-  {
-    "principle_fighter":"Ante Delija",
-    "opponent_fighter":"Marcin Tybura",
-    "result":"L",
-    "fight_date":"2015-09-20"
-  },
-  {
-    "principle_fighter":"Tallison Teixeira",
-    "opponent_fighter":"Tai Tuivasa",
-    "result":"W",
-    "fight_date":"2026-01-31"
-  },
-  {
     "principle_fighter":"Tallison Teixeira",
     "opponent_fighter":"Derrick Lewis",
     "result":"L",
@@ -3714,58 +3708,16 @@
     "fight_date":"2025-11-22"
   },
   {
-    "principle_fighter":"Mick Parkin",
-    "opponent_fighter":"Marcin Tybura",
-    "result":"L",
-    "fight_date":"2025-03-22"
-  },
-  {
     "principle_fighter":"Valter Walker",
     "opponent_fighter":"Marcin Tybura",
     "result":"S",
     "fight_date":"2026-03-28"
   },
   {
-    "principle_fighter":"Tai Tuivasa",
-    "opponent_fighter":"Tallison Teixeira",
-    "result":"L",
-    "fight_date":"2026-01-31"
-  },
-  {
-    "principle_fighter":"Tai Tuivasa",
+    "principle_fighter":"Mick Parkin",
     "opponent_fighter":"Marcin Tybura",
     "result":"L",
-    "fight_date":"2024-03-16"
-  },
-  {
-    "principle_fighter":"Tai Tuivasa",
-    "opponent_fighter":"Alexander Volkov",
-    "result":"L",
-    "fight_date":"2023-09-09"
-  },
-  {
-    "principle_fighter":"Tai Tuivasa",
-    "opponent_fighter":"Sergei Pavlovich",
-    "result":"L",
-    "fight_date":"2022-12-03"
-  },
-  {
-    "principle_fighter":"Tai Tuivasa",
-    "opponent_fighter":"Ciryl Gane",
-    "result":"L",
-    "fight_date":"2022-09-03"
-  },
-  {
-    "principle_fighter":"Tai Tuivasa",
-    "opponent_fighter":"Derrick Lewis",
-    "result":"W",
-    "fight_date":"2022-02-12"
-  },
-  {
-    "principle_fighter":"Tai Tuivasa",
-    "opponent_fighter":"Serghei Spivac",
-    "result":"L",
-    "fight_date":"2019-10-05"
+    "fight_date":"2025-03-22"
   },
   {
     "principle_fighter":"Mackenzie Dern",
@@ -4627,6 +4579,12 @@
   },
   {
     "principle_fighter":"Jasmine Jasudavicius",
+    "opponent_fighter":"Karine Silva",
+    "result":"S",
+    "fight_date":"2026-04-18"
+  },
+  {
+    "principle_fighter":"Jasmine Jasudavicius",
     "opponent_fighter":"Manon Fiorot",
     "result":"L",
     "fight_date":"2025-10-18"
@@ -4771,6 +4729,12 @@
   },
   {
     "principle_fighter":"Karine Silva",
+    "opponent_fighter":"Jasmine Jasudavicius",
+    "result":"S",
+    "fight_date":"2026-04-18"
+  },
+  {
+    "principle_fighter":"Karine Silva",
     "opponent_fighter":"Maycee Barber",
     "result":"L",
     "fight_date":"2025-12-06"
@@ -4806,18 +4770,6 @@
     "fight_date":"2021-03-27"
   },
   {
-    "principle_fighter":"Casey O'Neill",
-    "opponent_fighter":"Gabriella Fernandes",
-    "result":"S",
-    "fight_date":"2026-03-28"
-  },
-  {
-    "principle_fighter":"Casey O'Neill",
-    "opponent_fighter":"Luana Santos",
-    "result":"W",
-    "fight_date":"2024-08-17"
-  },
-  {
     "principle_fighter":"Wang Cong",
     "opponent_fighter":"Eduarda Moura",
     "result":"W",
@@ -4834,6 +4786,18 @@
     "opponent_fighter":"Valentina Shevchenko",
     "result":"W",
     "fight_date":"2015-10-31"
+  },
+  {
+    "principle_fighter":"Casey O'Neill",
+    "opponent_fighter":"Gabriella Fernandes",
+    "result":"S",
+    "fight_date":"2026-03-28"
+  },
+  {
+    "principle_fighter":"Casey O'Neill",
+    "opponent_fighter":"Luana Santos",
+    "result":"W",
+    "fight_date":"2024-08-17"
   },
   {
     "principle_fighter":"Eduarda Moura",
