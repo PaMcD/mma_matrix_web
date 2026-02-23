@@ -1,6 +1,12 @@
 [
   {
     "principle_fighter":"Joshua Van",
+    "opponent_fighter":"Tatsuro Taira",
+    "result":"S",
+    "fight_date":"2026-04-11"
+  },
+  {
+    "principle_fighter":"Joshua Van",
     "opponent_fighter":"Alexandre Pantoja",
     "result":"W",
     "fight_date":"2025-12-06"
@@ -100,6 +106,12 @@
     "opponent_fighter":"Kyoji Horiguchi",
     "result":"L",
     "fight_date":"2017-12-31"
+  },
+  {
+    "principle_fighter":"Tatsuro Taira",
+    "opponent_fighter":"Joshua Van",
+    "result":"S",
+    "fight_date":"2026-04-11"
   },
   {
     "principle_fighter":"Tatsuro Taira",
@@ -1909,6 +1921,12 @@
   },
   {
     "principle_fighter":"Sean Brady",
+    "opponent_fighter":"Joaquin Buckley",
+    "result":"S",
+    "fight_date":"2026-04-25"
+  },
+  {
+    "principle_fighter":"Sean Brady",
     "opponent_fighter":"Michael Morales",
     "result":"L",
     "fight_date":"2025-11-15"
@@ -2032,6 +2050,12 @@
     "opponent_fighter":"Kamaru Usman",
     "result":"L",
     "fight_date":"2015-12-19"
+  },
+  {
+    "principle_fighter":"Joaquin Buckley",
+    "opponent_fighter":"Sean Brady",
+    "result":"S",
+    "fight_date":"2026-04-25"
   },
   {
     "principle_fighter":"Joaquin Buckley",
@@ -2252,7 +2276,7 @@
   {
     "principle_fighter":"Sean Strickland",
     "opponent_fighter":"Anthony Hernandez",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-02-21"
   },
   {
@@ -2312,7 +2336,7 @@
   {
     "principle_fighter":"Anthony Hernandez",
     "opponent_fighter":"Sean Strickland",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-02-21"
   },
   {
@@ -3482,7 +3506,7 @@
   {
     "principle_fighter":"Serghei Spivac",
     "opponent_fighter":"Ante Delija",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-02-21"
   },
   {
@@ -3566,7 +3590,7 @@
   {
     "principle_fighter":"Ante Delija",
     "opponent_fighter":"Serghei Spivac",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-02-21"
   },
   {
@@ -4386,6 +4410,30 @@
     "fight_date":"2015-10-31"
   },
   {
+    "principle_fighter":"Natalia Silva",
+    "opponent_fighter":"Rose Namajunas",
+    "result":"W",
+    "fight_date":"2026-01-24"
+  },
+  {
+    "principle_fighter":"Natalia Silva",
+    "opponent_fighter":"Alexa Grasso",
+    "result":"W",
+    "fight_date":"2025-05-10"
+  },
+  {
+    "principle_fighter":"Natalia Silva",
+    "opponent_fighter":"Jéssica Andrade",
+    "result":"W",
+    "fight_date":"2024-09-07"
+  },
+  {
+    "principle_fighter":"Natalia Silva",
+    "opponent_fighter":"Jasmine Jasudavicius",
+    "result":"W",
+    "fight_date":"2022-06-18"
+  },
+  {
     "principle_fighter":"Manon Fiorot",
     "opponent_fighter":"Jasmine Jasudavicius",
     "result":"W",
@@ -4420,30 +4468,6 @@
     "opponent_fighter":"Tabatha Ricci",
     "result":"W",
     "fight_date":"2021-06-05"
-  },
-  {
-    "principle_fighter":"Natalia Silva",
-    "opponent_fighter":"Rose Namajunas",
-    "result":"W",
-    "fight_date":"2026-01-24"
-  },
-  {
-    "principle_fighter":"Natalia Silva",
-    "opponent_fighter":"Alexa Grasso",
-    "result":"W",
-    "fight_date":"2025-05-10"
-  },
-  {
-    "principle_fighter":"Natalia Silva",
-    "opponent_fighter":"Jéssica Andrade",
-    "result":"W",
-    "fight_date":"2024-09-07"
-  },
-  {
-    "principle_fighter":"Natalia Silva",
-    "opponent_fighter":"Jasmine Jasudavicius",
-    "result":"W",
-    "fight_date":"2022-06-18"
   },
   {
     "principle_fighter":"Alexa Grasso",
@@ -4945,6 +4969,12 @@
   },
   {
     "principle_fighter":"Norma Dumont",
+    "opponent_fighter":"Yana Santos",
+    "result":"S",
+    "fight_date":"2026-04-25"
+  },
+  {
+    "principle_fighter":"Norma Dumont",
     "opponent_fighter":"Ketlen Vieira",
     "result":"W",
     "fight_date":"2025-11-01"
@@ -5008,6 +5038,12 @@
     "opponent_fighter":"Irene Aldana",
     "result":"L",
     "fight_date":"2019-12-14"
+  },
+  {
+    "principle_fighter":"Yana Santos",
+    "opponent_fighter":"Norma Dumont",
+    "result":"S",
+    "fight_date":"2026-04-25"
   },
   {
     "principle_fighter":"Yana Santos",
@@ -5228,7 +5264,7 @@
   {
     "principle_fighter":"Nora Cornolle",
     "opponent_fighter":"Joselyne Edwards",
-    "result":"S",
+    "result":"L",
     "fight_date":"2026-02-21"
   },
   {
@@ -5276,7 +5312,7 @@
   {
     "principle_fighter":"Joselyne Edwards",
     "opponent_fighter":"Nora Cornolle",
-    "result":"S",
+    "result":"W",
     "fight_date":"2026-02-21"
   },
   {
