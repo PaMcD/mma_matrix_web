@@ -33,25 +33,25 @@
     "division":"Flyweight",
     "fighter_name":"Kyoji Horiguchi",
     "rank":5,
-    "movement":3
+    "movement":0
   },
   {
     "division":"Flyweight",
     "fighter_name":"Brandon Moreno",
     "rank":6,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Flyweight",
     "fighter_name":"Amir Albazi",
     "rank":7,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Flyweight",
     "fighter_name":"Asu Almabayev",
     "rank":8,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Flyweight",
@@ -91,7 +91,7 @@
   },
   {
     "division":"Flyweight",
-    "fighter_name":"Lone’er Kavanagh",
+    "fighter_name":"Joseph Morales",
     "rank":15,
     "movement":0
   },
@@ -147,13 +147,13 @@
     "division":"Bantamweight",
     "fighter_name":"Mario Bautista",
     "rank":8,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Bantamweight",
     "fighter_name":"Marlon Vera",
     "rank":9,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Bantamweight",
@@ -165,13 +165,13 @@
     "division":"Bantamweight",
     "fighter_name":"Payton Talbott",
     "rank":11,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Bantamweight",
     "fighter_name":"Vinicius Oliveira",
     "rank":12,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Bantamweight",
@@ -271,15 +271,15 @@
   },
   {
     "division":"Featherweight",
-    "fighter_name":"Kevin Vallejos",
+    "fighter_name":"Melquizael Costa",
     "rank":13,
     "movement":0
   },
   {
     "division":"Featherweight",
-    "fighter_name":"Dan Ige",
+    "fighter_name":"Kevin Vallejos",
     "rank":14,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Featherweight",
@@ -447,23 +447,23 @@
     "division":"Welterweight",
     "fighter_name":"Gabriel Bonfim",
     "rank":10,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Welterweight",
     "fighter_name":"Gilbert Burns",
     "rank":11,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Welterweight",
-    "fighter_name":"Geoff Neal",
+    "fighter_name":"Uroš Medić",
     "rank":12,
     "movement":0
   },
   {
     "division":"Welterweight",
-    "fighter_name":"Daniel Rodriguez",
+    "fighter_name":"Colby Covington",
     "rank":13,
     "movement":1
   },
@@ -471,13 +471,13 @@
     "division":"Welterweight",
     "fighter_name":"Michael Page",
     "rank":14,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Welterweight",
-    "fighter_name":"Colby Covington",
-    "rank":14,
-    "movement":-1
+    "fighter_name":"Daniel Rodriguez",
+    "rank":15,
+    "movement":-2
   },
   {
     "division":"Middleweight",
@@ -505,21 +505,21 @@
   },
   {
     "division":"Middleweight",
-    "fighter_name":"Anthony Hernandez",
-    "rank":4,
-    "movement":0
-  },
-  {
-    "division":"Middleweight",
     "fighter_name":"Brendan Allen",
-    "rank":5,
-    "movement":0
+    "rank":4,
+    "movement":1
   },
   {
     "division":"Middleweight",
     "fighter_name":"Israel Adesanya",
+    "rank":5,
+    "movement":1
+  },
+  {
+    "division":"Middleweight",
+    "fighter_name":"Anthony Hernandez",
     "rank":6,
-    "movement":0
+    "movement":-2
   },
   {
     "division":"Middleweight",
@@ -669,7 +669,7 @@
     "division":"Light Heavyweight",
     "fighter_name":"Zhang Mingyang",
     "rank":15,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Heavyweight",
@@ -709,51 +709,51 @@
   },
   {
     "division":"Heavyweight",
-    "fighter_name":"Rizvan Kuniev",
-    "rank":6,
-    "movement":0
-  },
-  {
-    "division":"Heavyweight",
     "fighter_name":"Serghei Spivac",
-    "rank":7,
-    "movement":0
-  },
-  {
-    "division":"Heavyweight",
-    "fighter_name":"Jailton Almeida",
-    "rank":8,
-    "movement":-2
-  },
-  {
-    "division":"Heavyweight",
-    "fighter_name":"Ante Delija",
-    "rank":9,
+    "rank":6,
     "movement":1
   },
   {
     "division":"Heavyweight",
-    "fighter_name":"Marcin Tybura",
-    "rank":10,
-    "movement":-2
+    "fighter_name":"Rizvan Kuniev",
+    "rank":7,
+    "movement":-1
   },
   {
     "division":"Heavyweight",
     "fighter_name":"Derrick Lewis",
-    "rank":11,
-    "movement":-2
+    "rank":8,
+    "movement":3
+  },
+  {
+    "division":"Heavyweight",
+    "fighter_name":"Marcin Tybura",
+    "rank":8,
+    "movement":2
+  },
+  {
+    "division":"Heavyweight",
+    "fighter_name":"Ante Delija",
+    "rank":10,
+    "movement":-1
   },
   {
     "division":"Heavyweight",
     "fighter_name":"Tallison Teixeira",
-    "rank":12,
-    "movement":-1
+    "rank":11,
+    "movement":1
   },
   {
     "division":"Heavyweight",
     "fighter_name":"Shamil Gaziev",
+    "rank":12,
+    "movement":1
+  },
+  {
+    "division":"Heavyweight",
+    "fighter_name":"Mick Parkin",
     "rank":13,
-    "movement":-1
+    "movement":2
   },
   {
     "division":"Heavyweight",
@@ -763,9 +763,9 @@
   },
   {
     "division":"Heavyweight",
-    "fighter_name":"Mick Parkin",
+    "fighter_name":"Vitor Petrino",
     "rank":15,
-    "movement":-2
+    "movement":0
   },
   {
     "division":"Women's Strawweight",
@@ -871,13 +871,13 @@
   },
   {
     "division":"Women's Flyweight",
-    "fighter_name":"Natalia Silva",
+    "fighter_name":"Manon Fiorot",
     "rank":1,
     "movement":0
   },
   {
     "division":"Women's Flyweight",
-    "fighter_name":"Manon Fiorot",
+    "fighter_name":"Natalia Silva",
     "rank":1,
     "movement":0
   },
@@ -933,13 +933,13 @@
     "division":"Women's Flyweight",
     "fighter_name":"Wang Cong",
     "rank":11,
-    "movement":1
+    "movement":0
   },
   {
     "division":"Women's Flyweight",
     "fighter_name":"Casey O'Neill",
     "rank":12,
-    "movement":-1
+    "movement":0
   },
   {
     "division":"Women's Flyweight",
@@ -949,15 +949,15 @@
   },
   {
     "division":"Women's Flyweight",
-    "fighter_name":"JJ Aldrich",
+    "fighter_name":"Gabriella Fernandes",
     "rank":14,
-    "movement":0
+    "movement":1
   },
   {
     "division":"Women's Flyweight",
-    "fighter_name":"Gabriella Fernandes",
+    "fighter_name":"JJ Aldrich",
     "rank":15,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Women's Bantamweight",
@@ -1027,27 +1027,27 @@
   },
   {
     "division":"Women's Bantamweight",
-    "fighter_name":"Mayra Bueno Silva",
+    "fighter_name":"Joselyne Edwards",
     "rank":11,
-    "movement":0
+    "movement":3
+  },
+  {
+    "division":"Women's Bantamweight",
+    "fighter_name":"Mayra Bueno Silva",
+    "rank":12,
+    "movement":-1
   },
   {
     "division":"Women's Bantamweight",
     "fighter_name":"Nora Cornolle",
-    "rank":12,
-    "movement":0
+    "rank":13,
+    "movement":-1
   },
   {
     "division":"Women's Bantamweight",
     "fighter_name":"Miesha Tate",
-    "rank":13,
-    "movement":0
-  },
-  {
-    "division":"Women's Bantamweight",
-    "fighter_name":"Joselyne Edwards",
     "rank":14,
-    "movement":0
+    "movement":-1
   },
   {
     "division":"Women's Bantamweight",
